@@ -44,5 +44,23 @@ Standard cell design is faster than the full custom design flow and it is more p
 
 ![image](https://github.com/user-attachments/assets/4575486a-d946-40b9-82ea-e335d6c73e76)
 
+![image](https://github.com/user-attachments/assets/3bcc1253-59bd-4b8d-9caf-a023270fa2b6)
 
+Macro cells can be placed anywhere in the layout, but it should be placed in such a way that the delay will be reduced.
+
+![image](https://github.com/user-attachments/assets/87250030-6602-4c8e-b3c2-5aac0fdd89a7)
+
+The identical cells are repeated throughout the chip in the matrix form in Array-Based design style.
+
+![image](https://github.com/user-attachments/assets/a5c53e88-9cf5-44c2-b374-5746e8c73855)
+
+In uncommitted gate array, the routing layers are on the top. It is expensive because, we need to get a gate array and do the required things. In committed gate array, the routing layers will be present and we need to do programming to connect them according to our need.
+
+![image](https://github.com/user-attachments/assets/a472dfd5-46b1-4e13-87ed-7307a1de694f)
+
+Here, we map the actual design with it and do the routing.
+
+![image](https://github.com/user-attachments/assets/e7cd7f95-53dc-4f8c-920f-ab5c16606396)
+
+In committed gate array, the example is shown below where there are 5 NAND gates and we route them and use it.
 
