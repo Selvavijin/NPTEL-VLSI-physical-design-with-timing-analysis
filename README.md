@@ -165,3 +165,49 @@ The module shapes and arrangements are fixed during floor planning.
 Timing closure is the most critical step. Here, the chip should maintain the timing that was specified initially by optimizing the placement and routing.
 
 ![image](https://github.com/user-attachments/assets/9c05ba92-5814-4f07-b57e-a2fd96efb47c)
+
+![image](https://github.com/user-attachments/assets/e5b0f81a-3d56-4600-a82e-23a9f7b34483)
+
+![image](https://github.com/user-attachments/assets/fcd12879-c987-4878-85c8-b3ff20c0b3d0)
+
+![image](https://github.com/user-attachments/assets/d0995bfe-0244-44c9-8fc6-78f68622fb5b)
+
+![image](https://github.com/user-attachments/assets/818f1169-22fb-4e2b-b794-f55ca973483f)
+
+![image](https://github.com/user-attachments/assets/497dfdaa-544c-4306-bf7f-4a99515f4165)
+
+![image](https://github.com/user-attachments/assets/fbf660ea-6813-466b-b1ed-7dfdee519909)
+
+![image](https://github.com/user-attachments/assets/e363c35a-b442-4b38-96a4-f034ec178e8f)
+
+![image](https://github.com/user-attachments/assets/7a0312e1-ec4a-41b3-b786-c143302cab28)
+
+Device mismatch - the number of transistors are not same in the schematic and layout
+property errors - different sized transistors
+
+![image](https://github.com/user-attachments/assets/6e2fe45f-a30b-4243-b60f-1d3edc686988)
+
+Missing device terminal - let us say that the substrate is not grounded, so this is a missing device terminal
+
+![image](https://github.com/user-attachments/assets/7db8e857-cfd9-4e2c-b03a-04d494125ddf)
+
+Schematic should be carefully designed. so, that it will be useful to check with the layout.
+
+![image](https://github.com/user-attachments/assets/d96e35c6-dfc6-4304-8e9e-68b74ad1150d)
+
+![image](https://github.com/user-attachments/assets/37bf5bc7-f161-4e8e-8d36-26113fce4cf1)
+
+![image](https://github.com/user-attachments/assets/8c0b8a10-df7a-4731-a356-44c22ea3c964)
+
+![image](https://github.com/user-attachments/assets/dcd5c2c4-fb15-4df4-8fb8-b0723da8d083)
+
+![image](https://github.com/user-attachments/assets/b6d46beb-bcb3-4496-9fad-d4d6b8cbaae4)
+
+![image](https://github.com/user-attachments/assets/72908d76-6f5d-44ce-bba3-a68b8ae1d073)
+
+When the length of the metal is large, charge accumulation occurs and the gate of transistor will gets damaged. This can be avoided by using two methods as shown below.
+
+![image](https://github.com/user-attachments/assets/ebde1908-81fc-482e-ac32-fb1a98e8a703)
+
+![image](https://github.com/user-attachments/assets/944f3aea-a3ce-4227-addc-bbaccfb9d2d1)
+
