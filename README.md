@@ -1,6 +1,6 @@
 # VLSI-NPTEL
 
-Week 1 (lecture 1)
+Week 1 (lecture 1-Introduction to VLSI design)
 
 ![image](https://github.com/user-attachments/assets/6111cae5-3cad-40e6-8df1-039beab117e2)
 
@@ -34,7 +34,7 @@ The heights of the standard cells are same or multiples of each other. The heiig
 
 ![image](https://github.com/user-attachments/assets/e1af8a77-9bbc-4503-bc9b-2c91c6490ce1)
 
-The channel is prsent as shown in the diagram below. The channel is used for the routing the metals tracks. There is also a thing called feed through cells which are used to route through another channels when the layers of the chip is small.
+The channel is prsent as shown in the diagram below. The channel is used for the routing the metals tracks. There is also a thing called feed through cells which are used to route through another channels when the number of layers of the chip is minimum.
 
 ![image](https://github.com/user-attachments/assets/ac5da6ff-bc83-4ba0-a89b-a558c2fb1f6a)
 
@@ -64,3 +64,42 @@ Here, we map the actual design with it and do the routing.
 
 In committed gate array, the example is shown below where there are 5 NAND gates and we route them and use it.
 
+![image](https://github.com/user-attachments/assets/e670d291-8caa-4563-a96c-a910bac532c6)
+
+![image](https://github.com/user-attachments/assets/2abb7281-9ed6-45d2-8932-2f94dbec4490)
+
+In the case of FPGA we have programmable IO, interconnect and LUT.
+
+![image](https://github.com/user-attachments/assets/2eab94db-abd3-43ac-86a8-f8b0497adf1e)
+
+Switch box are the interconnects that are programmable in the runtime. We can implement both combinational and sequential logics using this.
+
+![image](https://github.com/user-attachments/assets/a9e3ccd4-583f-4d96-a012-c6d80a04e3f9)
+
+Here, the gate level circuit is mapped to the LUT.
+
+![image](https://github.com/user-attachments/assets/114793bf-27c3-4372-8e30-d30dc7187928)
+
+Modules are the different blocks inside the system(chip) and how they are connected to each other. If we go into one of the module,
+gates are there which is called gate level. Inside that we have transistor level. Then we have device which is implemented using silicon.
+We need to do optimization in all the levels to achive the three targets mentioned in the diagram below.
+
+![image](https://github.com/user-attachments/assets/a5266c61-2287-43c7-8b6b-59a4a8acb3a3)
+
+![image](https://github.com/user-attachments/assets/5756e19d-2223-429a-be2b-9899cfc2d1f0)
+
+![image](https://github.com/user-attachments/assets/615bf9f0-5b44-4419-93b1-e1ced711c33b)
+
+![image](https://github.com/user-attachments/assets/8a341196-b554-491e-903d-c4478ffeeca1)
+
+![image](https://github.com/user-attachments/assets/ca25f5ed-10ef-462c-8f22-802da0339409)
+
+![image](https://github.com/user-attachments/assets/42d50d7b-efc3-474c-9d47-6404590ae324)
+
+![image](https://github.com/user-attachments/assets/e4a45e85-5909-4115-ba9b-4041821791ae)
+
+![image](https://github.com/user-attachments/assets/9dd8b32d-1c44-4794-a080-0564882042b4)
+
+![image](https://github.com/user-attachments/assets/7bce0597-faf9-4a27-bb3a-bd46efc192bc)
+
+![image](https://github.com/user-attachments/assets/36289c37-6a8d-45df-a084-24e23e1ed6c9)
