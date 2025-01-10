@@ -103,3 +103,65 @@ We need to do optimization in all the levels to achive the three targets mention
 ![image](https://github.com/user-attachments/assets/7bce0597-faf9-4a27-bb3a-bd46efc192bc)
 
 ![image](https://github.com/user-attachments/assets/36289c37-6a8d-45df-a084-24e23e1ed6c9)
+
+Week 1 (lecture 2-Introduction to VLSI physical design)
+
+![image](https://github.com/user-attachments/assets/711cd240-8413-475c-8023-6cbed03badfa)
+
+![image](https://github.com/user-attachments/assets/6400d451-1935-4c34-85dd-3ba514f26754)
+
+![image](https://github.com/user-attachments/assets/e902a973-25ed-411b-8cd3-cb6a67ab0ed7)
+
+In Architectural design, we need to specify, which arcitecture(RISC, MIPS, etc) we are going to use. Also we need to specify, how the components are interconnected with each other and what kind of communication protocols we are going to use.
+
+![image](https://github.com/user-attachments/assets/e89341d4-1a71-4c7c-b09d-923c67e9cac5)
+
+![image](https://github.com/user-attachments/assets/862ba09b-2472-4847-b3b1-e2061a2c8783)
+
+![image](https://github.com/user-attachments/assets/6a96b378-17a5-4192-8056-86e9fd7183db)
+
+![image](https://github.com/user-attachments/assets/296ba7ed-c20d-418b-8620-4a8b97a24bb2)
+
+Technology specific means, example: size of the transistor 6nm
+
+![image](https://github.com/user-attachments/assets/f712fdae-4347-4f73-a2b9-9f65835a0009)
+
+![image](https://github.com/user-attachments/assets/e4d68892-a2e7-49d6-ad2a-5235316fe6dd)
+
+![image](https://github.com/user-attachments/assets/ddc64ab0-2f1c-4ff4-bf7c-a5f33c9bc40b)
+
+![image](https://github.com/user-attachments/assets/60e7769c-951b-4907-a248-b55256b4a37a)
+
+![image](https://github.com/user-attachments/assets/64a259b5-6a19-4401-a09e-27389e30c3ef)
+
+![image](https://github.com/user-attachments/assets/0d1f4ec1-a7f7-479c-b719-ccf564b6140d)
+
+![image](https://github.com/user-attachments/assets/85e2d2d1-762c-4f07-802d-4703cd3b28d1)
+
+![image](https://github.com/user-attachments/assets/e77c5d12-5ba5-4efc-a10e-2063064a4c67)
+
+Packaging is done to test the functionality of the chip.
+
+![image](https://github.com/user-attachments/assets/b4f187d6-dfc9-4f0a-a79e-ef1d53deb3f7)
+
+![image](https://github.com/user-attachments/assets/96740154-898a-4c17-abd9-ad80d7bd77ff)
+
+![image](https://github.com/user-attachments/assets/25c25019-095a-41ec-8ebd-4504ae0db6a7)
+
+![image](https://github.com/user-attachments/assets/29e0e0ba-3414-4ac1-aaf5-b58d5b9b7c95)
+
+![image](https://github.com/user-attachments/assets/1fd62bb3-7cab-4587-98b8-54ab385b9f28)
+
+The module shapes and arrangements are fixed during floor planning.
+
+![image](https://github.com/user-attachments/assets/6c9765b4-fc90-4f0f-8224-3628dfa300e2)
+
+![image](https://github.com/user-attachments/assets/8aec4c84-4366-41da-ba3e-92ea21f16440)
+
+![image](https://github.com/user-attachments/assets/37e12525-2b23-4ead-841b-cce1f1301cd3)
+
+![image](https://github.com/user-attachments/assets/e3d21480-ccca-4c07-af8d-eb2b542c70b0)
+
+Timing closure is the most critical step. Here, the chip should maintain the timing that was specified initially by optimizing the placement and routing.
+
+![image](https://github.com/user-attachments/assets/9c05ba92-5814-4f07-b57e-a2fd96efb47c)
