@@ -211,3 +211,83 @@ When the length of the metal is large, charge accumulation occurs and the gate o
 
 ![image](https://github.com/user-attachments/assets/944f3aea-a3ce-4227-addc-bbaccfb9d2d1)
 
+lecture 3 - Complexity analysis for algorithms
+
+![image](https://github.com/user-attachments/assets/b8e7d50f-1050-43a2-8278-fb7498e4b845)
+
+![image](https://github.com/user-attachments/assets/e20998b9-41b6-4f07-bc50-bbffbd92fdd7)
+
+Greedy algorithm - Finds the solution in less time. But, it is locally optimum and not globally optimum.
+The Divide and Conquer and Dynamic programming algorithms are similar but the difference is, in Divide and Conquer algorithms, the divided subsets are independent and does not depend on other subsets and in Dynamic programming algorithms, the subsets will overlap on each other. 
+Linear/ Integer programming algorithms - They are useful during routing.
+
+![image](https://github.com/user-attachments/assets/1ee260bd-407f-437d-9bd2-6794bfd0aee9)
+
+![image](https://github.com/user-attachments/assets/db80b640-fe2a-4898-b57a-d71539f0e003)
+
+The below mentioned are important for the VLSI physical design implementations.
+
+![image](https://github.com/user-attachments/assets/d22bc385-3925-41a4-af23-6a30666c67dd)
+
+To understand the time and space complexity, we need to analyze the performance of the algorithms and select the algorithm which takes less time. Resource management - we need to choose the algorithm which takes less memory because, higher the memory, higher the space.
+
+![image](https://github.com/user-attachments/assets/7fd9a322-6d45-45fc-b21c-42fe38293512)
+
+We need to find a method where we can find the runtime of the algorithm which does not depend on all the below mentioned things.
+
+![image](https://github.com/user-attachments/assets/cfe0c93d-395f-4a1c-aa40-71d95fd8a9cd)
+
+![image](https://github.com/user-attachments/assets/37bdc7d8-8d80-4d69-9705-ef3e6e55f732)
+
+![image](https://github.com/user-attachments/assets/9d9d7964-65d8-4edd-ac3b-8e23af94dbb3)
+
+So, to find the complexity of the algorithm, we first remove the lower order terms and then we remove the co-efficient.
+
+![image](https://github.com/user-attachments/assets/0dc94e0c-0d9b-4cef-8f43-9d0e997c4f27)
+
+There is an analysis which does not depend on the type of the input, machine speed and the programming language. That is called Asymptotic analysis.
+
+![image](https://github.com/user-attachments/assets/f1c6d0f7-7ed4-4e2d-bf2c-aed4d0a32f7e)
+
+We have 3 different types of Asymptotic analysis. 
+
+1
+
+![image](https://github.com/user-attachments/assets/a4bff228-1041-4797-a0ba-9d357754e136)
+
+![image](https://github.com/user-attachments/assets/a56f5cc7-5ef4-48fb-8286-f9991b2efd2f)
+
+2
+
+![image](https://github.com/user-attachments/assets/bee76051-e74f-4aba-80d9-3b61f743af46)
+
+![image](https://github.com/user-attachments/assets/0dedf146-6e89-4f9a-85df-ec5c2e5176b0)
+
+3
+
+![image](https://github.com/user-attachments/assets/b807af14-c524-4400-a0dd-b59fa5b60753)
+
+![image](https://github.com/user-attachments/assets/56297434-00f0-45fa-9c93-2b6cd9b873a9)
+
+![image](https://github.com/user-attachments/assets/60bbe4b1-25b4-4a57-b1c4-1db4a039de49)
+
+![image](https://github.com/user-attachments/assets/743b0de4-80a4-4397-b5e1-72a2469f25fa)
+
+![image](https://github.com/user-attachments/assets/e7144420-87d4-40f7-85b8-23c9747e4cf8)
+
+![image](https://github.com/user-attachments/assets/f2079fc5-5301-45ed-ac93-71ca91a78aa1)
+
+Let us see how an algorithm can be implemented in two different time complexity.
+
+![image](https://github.com/user-attachments/assets/608f357d-6aff-4f1e-a2dc-3ba342042c9b)
+
+![image](https://github.com/user-attachments/assets/b9e89028-17cd-4862-b976-2f67083e82bd)
+
+![image](https://github.com/user-attachments/assets/743fdb88-974d-4ad5-b82d-2533ea717d7b)
+
+Here the we can't specifically mention the time delay in linear search. Because, the element can present in anywhere. But, the worst case time delay is the last element. So, we will say the complexity as the order of 'n'
+
+![image](https://github.com/user-attachments/assets/9d93e28e-5b43-49b4-b05a-7ec90ae04e9f)
+
+![image](https://github.com/user-attachments/assets/d8669dfa-15a9-4e7b-a5f0-0912e36f59aa)
+
