@@ -291,3 +291,33 @@ Here the we can't specifically mention the time delay in linear search. Because,
 
 ![image](https://github.com/user-attachments/assets/d8669dfa-15a9-4e7b-a5f0-0912e36f59aa)
 
+![image](https://github.com/user-attachments/assets/9052ae3f-e6dc-4545-88cb-6ddc8cc416f7)
+
+The examples of 'P' type algorithms are merge sort, linear search, etc.
+
+![image](https://github.com/user-attachments/assets/7211cbc6-68cf-44d6-b691-e9c001248f95)
+
+![image](https://github.com/user-attachments/assets/2032d983-a357-4f2f-938a-cc2aa604da01)
+
+![image](https://github.com/user-attachments/assets/affb399a-2cd9-4b4b-a33e-f100e2c24d28)
+
+![image](https://github.com/user-attachments/assets/07171bd6-ccc4-4517-b6b6-c4291437d0ea)
+
+![image](https://github.com/user-attachments/assets/9218c44d-51ed-48ed-a8f1-a86b30e7eaab)
+
+![image](https://github.com/user-attachments/assets/b0870e2b-2e70-4360-ae04-ae32a29b2675)
+
+![image](https://github.com/user-attachments/assets/ce800396-d3df-40ca-9626-55f8bb4ec938)
+
+Here, since the large problem is cut down into smaller problems, it can be solved using ploynomial time method and then will be merged.
+
+![image](https://github.com/user-attachments/assets/0fdcdcfc-df7d-4b58-87f8-a6d8f251c58a)
+
+When k=2, we can solve it using polynomial time method.
+
+![image](https://github.com/user-attachments/assets/aaf049fc-e8f9-4049-a6da-1f843241e103)
+
+![image](https://github.com/user-attachments/assets/1af2b1b6-63a8-4aed-92e2-1d430474a2df)
+
+![image](https://github.com/user-attachments/assets/086a1f10-7c52-4e27-9ead-72b1fd7bc952)
+
