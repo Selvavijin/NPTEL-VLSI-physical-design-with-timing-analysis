@@ -321,3 +321,43 @@ When k=2, we can solve it using polynomial time method.
 
 ![image](https://github.com/user-attachments/assets/086a1f10-7c52-4e27-9ead-72b1fd7bc952)
 
+Lecture-4 - Graphs for physical design
+
+![image](https://github.com/user-attachments/assets/d272d829-cf87-445a-8f27-3b24db886c4c)
+
+![image](https://github.com/user-attachments/assets/6949c6f9-854f-4df2-a03d-543d32c78593)
+
+![image](https://github.com/user-attachments/assets/1ce8b6f0-96b4-4359-a515-1464e4b695f1)
+
+The small circles are called node and the connection between them is called edges.
+
+![image](https://github.com/user-attachments/assets/4971667c-2c19-4ec8-8c44-7c971b00c641)
+
+![image](https://github.com/user-attachments/assets/0d0e4ecf-c4f4-42ee-bdf1-42c51823746f)
+
+Hyperedges - Subset of two or more nodes.
+
+![image](https://github.com/user-attachments/assets/5ae53e78-ff86-4316-8776-fe7869107b30)
+
+![image](https://github.com/user-attachments/assets/cfa6de42-3542-4c15-88d8-b079bcf593b3)
+
+![image](https://github.com/user-attachments/assets/09226010-e3de-453e-b2d3-853c803b62c1)
+
+![image](https://github.com/user-attachments/assets/c7489950-7fa7-40cf-a27f-cb072ad49c2f)
+
+![image](https://github.com/user-attachments/assets/092ad4fe-6230-4756-b423-65eaa5a84514)
+
+![image](https://github.com/user-attachments/assets/1c82a255-8792-4392-89cb-b0d4a970e055)
+
+![image](https://github.com/user-attachments/assets/c25c0b78-b287-4421-a89a-0321bc4d41fa)
+
+![image](https://github.com/user-attachments/assets/63f6523e-bb71-4d37-a78c-021d5b158938)
+
+![image](https://github.com/user-attachments/assets/f107d21f-b76c-4069-9966-827c168ca96b)
+
+![image](https://github.com/user-attachments/assets/ca29a982-8ffb-4224-a25c-f7cba1c0d4d7)
+
+![image](https://github.com/user-attachments/assets/9f6caec3-7aad-42e0-9a1b-23e68d57f946)
+
+![image](https://github.com/user-attachments/assets/55badd8a-be20-4aa4-b3f9-1891aaa13f8f)
+
