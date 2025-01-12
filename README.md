@@ -361,3 +361,65 @@ Hyperedges - Subset of two or more nodes.
 
 ![image](https://github.com/user-attachments/assets/55badd8a-be20-4aa4-b3f9-1891aaa13f8f)
 
+![image](https://github.com/user-attachments/assets/a0722568-dd69-4610-b5eb-60398794cca6)
+
+The last column has '/' which represents that there is no nodes further.
+
+![image](https://github.com/user-attachments/assets/bc917203-9cd2-4f57-919a-dd10413e2971)
+
+This graph will be useful and best when there is less number of edges.
+![image](https://github.com/user-attachments/assets/fe1902a2-fcf6-447b-b2da-2e6d5a96bd40)
+
+![image](https://github.com/user-attachments/assets/2d6c53d9-253e-473f-9cf6-76943ed362df)
+
+This graph is useful for static timing analysis. Because, the delay parameter can be inserted inside the column that is present there.
+![image](https://github.com/user-attachments/assets/dd0ead6b-c726-4004-9123-06b3751426a6)
+
+![image](https://github.com/user-attachments/assets/5ee41957-8523-4466-9330-3b0cfa2f42e0)
+
+![image](https://github.com/user-attachments/assets/8bd89d43-3f53-4ee5-9935-8a5322148c0c)
+
+![image](https://github.com/user-attachments/assets/7ac9ce88-58c5-4014-80df-1c1f3950f7c1)
+
+![image](https://github.com/user-attachments/assets/d472107b-d8cb-484b-8459-4d3c97876d16)
+
+![image](https://github.com/user-attachments/assets/3ce7b9c8-7679-4f7a-b29e-d751872bf10e)
+
+![image](https://github.com/user-attachments/assets/7f08b07a-ca03-4a92-80bd-172966f3d10d)
+
+![image](https://github.com/user-attachments/assets/00eea7ef-626b-4037-bc12-c8d4bc700ab1)
+
+![image](https://github.com/user-attachments/assets/b377d48d-144e-47b3-8c58-00e1f6ef5d0b)
+
+![image](https://github.com/user-attachments/assets/7d97de79-57da-423e-8d98-5fa00a4e291e)
+
+![image](https://github.com/user-attachments/assets/c245e126-e2a3-4200-9b11-e07260f28740)
+
+Here the intervels are A,B,C,D,E,F
+
+![image](https://github.com/user-attachments/assets/58d9f144-0db8-4607-94b2-eca65945da67)
+
+![image](https://github.com/user-attachments/assets/204399ea-f577-47a1-8373-b9e6a2cde411)
+
+![image](https://github.com/user-attachments/assets/caedc8f3-af39-4365-85c2-b9c8fa9a6ad5)
+
+![image](https://github.com/user-attachments/assets/52c3908a-76cc-42fc-9242-1bd1b479c0c1)
+
+![image](https://github.com/user-attachments/assets/38931755-92d7-42c9-8b8e-9b59756dcc9e)
+
+![image](https://github.com/user-attachments/assets/4b66d545-100e-4093-a231-79b0aa26bcfc)
+
+![image](https://github.com/user-attachments/assets/45eede58-e86a-4bf3-ad4a-068ca77922a3)
+
+![image](https://github.com/user-attachments/assets/aeac28bc-0cdf-4ce0-94ac-95a871515951)
+
+![image](https://github.com/user-attachments/assets/ea0c274c-67fb-4a92-8f02-92a75e090735)
+
+![image](https://github.com/user-attachments/assets/07213198-4a4e-493e-96b3-bd0550c83ce8)
+
+![image](https://github.com/user-attachments/assets/ca9b23d1-ff61-4a54-85b4-1ef3d5a3501a)
+
+![image](https://github.com/user-attachments/assets/dd928be8-302b-494d-9514-e2164bda8125)
+
+
+
