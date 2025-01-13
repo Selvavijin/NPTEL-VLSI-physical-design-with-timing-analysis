@@ -421,5 +421,40 @@ Here the intervels are A,B,C,D,E,F
 
 ![image](https://github.com/user-attachments/assets/dd928be8-302b-494d-9514-e2164bda8125)
 
+Lecture 5 - Graph searching algorithms
+
+![image](https://github.com/user-attachments/assets/fd6cc66a-a7ac-475f-9f72-6d307ab78ab8)
+
+![image](https://github.com/user-attachments/assets/e90837fd-e6e0-4181-97cb-12ed508dfd74)
+
+![image](https://github.com/user-attachments/assets/b4650cc0-16f8-45ca-ba16-68b79feb7fc9)
+
+The Pseudo code of the DFS is shown below.
+
+![image](https://github.com/user-attachments/assets/a702b9ec-713c-49af-9661-e63ae7865378)
+
+The main aim is to find the discovery time and finish time of each of the vertices.
+
+![image](https://github.com/user-attachments/assets/50db4e0d-ff94-41aa-809b-cc6eea58fa67)
+
+Here, A has two adjacent elements. They are B,D and E. Let us select any one element first and we select B so, B is added to the stack. This is done for all the elements. Once it reaches 'e', it can't go further. Because, it has only 'b' in its direction and it is also already visited. So, the finish time of 'e' is given.
+
+![image](https://github.com/user-attachments/assets/020c23fa-53e6-4dd5-8651-7080452bfae5)
+
+Then it will go back to 'd' and 'c' is selected.
+
+![image](https://github.com/user-attachments/assets/c615de69-9224-4a93-b56f-f02f2e33d8ad)
+
+![image](https://github.com/user-attachments/assets/06c523c1-be9b-444a-ba27-2a282c0b4d43)
+
+Then the top element in the stack is 'd' and so, the finish time for 'd' is given.
+
+![image](https://github.com/user-attachments/assets/f2e78167-4431-47da-9cd8-98c4e21f9da0)
+
+![image](https://github.com/user-attachments/assets/ea9b99b0-1f12-405d-952a-eccf7b4ccfd3)
+
+![image](https://github.com/user-attachments/assets/452dcf2f-641a-4902-af30-47db418dacb5)
+
+
 
 
