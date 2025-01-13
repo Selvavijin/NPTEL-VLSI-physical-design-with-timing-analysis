@@ -455,6 +455,44 @@ Then the top element in the stack is 'd' and so, the finish time for 'd' is give
 
 ![image](https://github.com/user-attachments/assets/452dcf2f-641a-4902-af30-47db418dacb5)
 
+![image](https://github.com/user-attachments/assets/a9d91600-982f-4d90-a4cf-8ca8c8edacdc)
+
+![image](https://github.com/user-attachments/assets/2e37efcc-ae1f-4110-aec4-6f3eabc005ee)
+
+Now we have to visit the nodes that are not visited so far. First we will see 'w'
+
+![image](https://github.com/user-attachments/assets/fcd523fc-7e99-47fa-844c-838f9a505eaa)
+
+![image](https://github.com/user-attachments/assets/daa3d7c6-ec0f-47f1-b4cb-99b73de82ec3)
+
+BFS
+
+![image](https://github.com/user-attachments/assets/0ba891a1-da0d-41a0-a568-bb1aae39714f)
+
+![image](https://github.com/user-attachments/assets/aece994f-2802-4a57-a300-91dd4aeabdcd)
+
+In DFS algorithm we used stack data structure which follows LIFO principle. Here in BFS we use queue data structure which follows FIFO principle. There will be a source node 's' form where we will be starting. Here, since all the three t,u,v are visited at the same time, they are denoted as 1.
+
+![image](https://github.com/user-attachments/assets/73defd1e-21e3-436b-896a-02cabc1f597e)
+
+Now we look into adjacent nodes of 't' and we have 'w' so it is denoted as 2. Then we see for 'u' and there is none similarly 'v'.
+
+![image](https://github.com/user-attachments/assets/a3d55c8d-0529-4d11-abf1-fbf9c2cbe279)
+
+![image](https://github.com/user-attachments/assets/19614b6b-f105-4dde-962f-c066ace6829a)
+
+![image](https://github.com/user-attachments/assets/d779ea32-9cc4-4007-bece-83f6607dd9b0)
+
+![image](https://github.com/user-attachments/assets/2f3392c3-2c68-49e3-b51a-7b596848573c)
+
+![image](https://github.com/user-attachments/assets/6d72f60a-b68a-40b9-a514-e028bad9d004)
+
+![image](https://github.com/user-attachments/assets/173bdd9c-013c-4ba5-b0a8-c2d6947b9bdc)
+
+![image](https://github.com/user-attachments/assets/a771fc0a-419a-4df3-ba20-c0bd4c770934)
+
+![image](https://github.com/user-attachments/assets/41a38567-9cb2-483e-997a-79b1bf6a87bc)
+
 
 
 
