@@ -211,7 +211,7 @@ When the length of the metal is large, charge accumulation occurs and the gate o
 
 ![image](https://github.com/user-attachments/assets/944f3aea-a3ce-4227-addc-bbaccfb9d2d1)
 
-lecture 3 - Complexity analysis for algorithms
+Week 1 (lecture 3-Complexity analysis for algorithms)
 
 ![image](https://github.com/user-attachments/assets/b8e7d50f-1050-43a2-8278-fb7498e4b845)
 
@@ -321,7 +321,7 @@ When k=2, we can solve it using polynomial time method.
 
 ![image](https://github.com/user-attachments/assets/086a1f10-7c52-4e27-9ead-72b1fd7bc952)
 
-Lecture-4 - Graphs for physical design
+Week 1 (Lecture 4-Graphs for physical design)
 
 ![image](https://github.com/user-attachments/assets/d272d829-cf87-445a-8f27-3b24db886c4c)
 
@@ -421,7 +421,7 @@ Here the intervels are A,B,C,D,E,F
 
 ![image](https://github.com/user-attachments/assets/dd928be8-302b-494d-9514-e2164bda8125)
 
-Lecture 5 - Graph searching algorithms
+Week 1 (Lecture 5-Graph searching algorithms)
 
 ![image](https://github.com/user-attachments/assets/fd6cc66a-a7ac-475f-9f72-6d307ab78ab8)
 
@@ -492,6 +492,42 @@ Now we look into adjacent nodes of 't' and we have 'w' so it is denoted as 2. Th
 ![image](https://github.com/user-attachments/assets/a771fc0a-419a-4df3-ba20-c0bd4c770934)
 
 ![image](https://github.com/user-attachments/assets/41a38567-9cb2-483e-997a-79b1bf6a87bc)
+
+Week 1 (Lecture 6-Spanning tree and shortest path algorithms)
+
+These algorithms are used to reduce the wire length and hence the delay of the circuit is also reduced.
+
+![image](https://github.com/user-attachments/assets/2d67134c-46fc-4c30-ab89-30b1ee13b70b)
+
+![image](https://github.com/user-attachments/assets/304ab880-0cb2-4c6e-9767-ad204d30e1f0)
+
+![image](https://github.com/user-attachments/assets/298beb16-080e-481e-bf1f-c2320780b898)
+
+![image](https://github.com/user-attachments/assets/30523f5f-43b8-4a5a-a1d8-7a626f6790eb)
+
+![image](https://github.com/user-attachments/assets/c89cc2e1-4711-401a-97c3-2cbca25865bc)
+
+![image](https://github.com/user-attachments/assets/ebcd1c0b-720a-449a-ac2e-18d11b38bc17)
+
+In prim's algorithm, we look for the path with low weight and also in a order(like 1,2,3,4). Once we did connection from a to d, the final cost is 4 and so we search for 5 and it is present between g and c. So, we do connect that.
+
+![image](https://github.com/user-attachments/assets/6ef7138c-6c61-4e2e-bb5d-b96d33eccd62)
+
+After that 6 is not there. Also, if we select 7, a cycle will be formed which is not allowed. 8 will also create a cycle.
+
+![image](https://github.com/user-attachments/assets/0ed47784-ba44-4c57-b54c-6a5f04ad30d2)
+
+So, we connected all the nodes with the minimum weights and hence it is called minimum spanning tree.  
+
+![image](https://github.com/user-attachments/assets/9f071006-8731-4acc-aabf-b8781c6c8970)
+
+![image](https://github.com/user-attachments/assets/554153ea-b14e-42e5-a921-433e1c8e7b4c)
+
+In Kruskal's algorithm, we first need to see, which has the least cost. b,h and h,g is selected. Then g,f is selected. Then f,d and a,b are selected.
+
+![image](https://github.com/user-attachments/assets/f66a4613-1013-40a2-adeb-a9e642ad6e0c)
+
+![image](https://github.com/user-attachments/assets/3a4e2dc1-f788-4580-aa3c-29fe0bd0f464)
 
 
 
