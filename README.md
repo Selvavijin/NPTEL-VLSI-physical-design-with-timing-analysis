@@ -529,6 +529,29 @@ In Kruskal's algorithm, we first need to see, which has the least cost. b,h and 
 
 ![image](https://github.com/user-attachments/assets/3a4e2dc1-f788-4580-aa3c-29fe0bd0f464)
 
+Shortest path algorithms:
+
+![image](https://github.com/user-attachments/assets/6cbaac5a-33c9-4f05-b5aa-1c6db5fedfc1)
+
+We have to find the shortest path from the source node s to all other nodes. So, we assign infinity to all the other nodes.
+
+![image](https://github.com/user-attachments/assets/bf5e6cfa-9cde-4c1b-af1c-4bb6b89af16c)
+
+![image](https://github.com/user-attachments/assets/6fe6fa12-4b39-41e5-b57e-80e540fd5d77)
+
+![image](https://github.com/user-attachments/assets/01a1c4f8-0702-435e-b7d4-f2c787352bc6)
+
+![image](https://github.com/user-attachments/assets/e80fc3a2-dd02-4246-9031-edd972bc038f)
+
+![image](https://github.com/user-attachments/assets/05cab2fc-a874-4ca3-a3c2-6a0f19d69ef6)
+
+![image](https://github.com/user-attachments/assets/4b74f687-85c3-4409-8457-d5959c9e0a01)
+
+![image](https://github.com/user-attachments/assets/bee785e8-8257-4171-aa53-1ae60129c73f)
+
+![image](https://github.com/user-attachments/assets/69f4562e-523c-4170-8029-03a6908f35af)
+
+![image](https://github.com/user-attachments/assets/ff2f0777-5a6d-4df1-961e-64ca7a80b0b7)
 
 
 
