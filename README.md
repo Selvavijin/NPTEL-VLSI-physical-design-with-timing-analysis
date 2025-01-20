@@ -1,4 +1,4 @@
-# VLSI-NPTEL
+# NPTEL - VLSI Physical design with timing analysis
 
 Week 1 (lecture 1-Introduction to VLSI design)
 
