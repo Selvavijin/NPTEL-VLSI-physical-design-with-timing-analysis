@@ -553,5 +553,53 @@ We have to find the shortest path from the source node s to all other nodes. So,
 
 ![image](https://github.com/user-attachments/assets/ff2f0777-5a6d-4df1-961e-64ca7a80b0b7)
 
+Week 2 (lecture 7-Overview of timing analysis)
 
+![image](https://github.com/user-attachments/assets/dc537156-8b52-4816-8ea9-7dd7d384ab9d)
+
+![image](https://github.com/user-attachments/assets/cf2d2467-4f7e-4893-9245-ca5797acd718)
+
+The longest path is determined to avoid the setup violation and the shortest path is determined to avoid the hold violation.
+
+![image](https://github.com/user-attachments/assets/c62cfac1-86e2-4890-b353-a2e6ba8fa59f)
+
+In order to maintain the timing closure at the end, we need to do the timing analysis at each step of the physical design flow. In case if the timing is not met in any of the flow, we need to go back and check the timing.
+
+![image](https://github.com/user-attachments/assets/45dc5134-4daa-4288-a759-e9dcb579c18f)
+
+![image](https://github.com/user-attachments/assets/8c2ad65f-7c23-4540-90d9-bdbeb80e1bc5)
+
+In STA, no input is applied. The analysis is done for individual paths separately so it takes more time. Let us say that we design a processor with a clock speed of 1GHz and clock time of 1ns. This time will be given as a timing constraint and the analysis is done. 
+
+![image](https://github.com/user-attachments/assets/5db6112c-cd36-4511-aa02-0a70bcc44e85)
+
+In DTA, the inputs are applied and the expected output is also checked.
+
+![image](https://github.com/user-attachments/assets/7d6e6cd7-3ab3-4442-a9cd-a8c8e222a9dc)
+
+![image](https://github.com/user-attachments/assets/8630d33d-49a2-4458-88cb-67146ebc634b)
+
+There are multiple timing path available from the source node to the destination node in the below circuit. So, all the paths need to be analyzed by the STA tool in order to find the worst case path in the design.
+
+![image](https://github.com/user-attachments/assets/461befc9-360b-410a-bb49-5d47394e5af2)
+
+![image](https://github.com/user-attachments/assets/6f513013-c6b2-4f76-962c-c92992d224c4)
+
+We need to instruct the timing analysis tools about the false path. Because, it might consider this false path as a critical path.
+
+![image](https://github.com/user-attachments/assets/a46e0b2f-4a13-4b83-b994-66fe242326c6)
+
+![image](https://github.com/user-attachments/assets/4c4bc095-50e0-438e-945f-599484190b3c)
+
+![image](https://github.com/user-attachments/assets/b3cfbf92-ee9a-43cb-ac1e-89098c5e0876)
+
+![image](https://github.com/user-attachments/assets/e4133335-a99e-4a27-b168-699579b8070e)
+
+![image](https://github.com/user-attachments/assets/1ea7d55e-a781-4930-91a7-0066f55f5bc4)
+
+![image](https://github.com/user-attachments/assets/79f13329-4130-4ad4-ae11-c3ef6042f9a2)
+
+![image](https://github.com/user-attachments/assets/662cc6c5-c7a9-4261-a3d1-5e042644f7b8)
+
+![image](https://github.com/user-attachments/assets/ce0cd98f-6749-460c-b42f-019e5290f2a3)
 
