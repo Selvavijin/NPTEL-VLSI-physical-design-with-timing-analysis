@@ -603,3 +603,53 @@ We need to instruct the timing analysis tools about the false path. Because, it 
 
 ![image](https://github.com/user-attachments/assets/ce0cd98f-6749-460c-b42f-019e5290f2a3)
 
+Week 2 (lecture 8-Timing arcs and unateness)
+
+![image](https://github.com/user-attachments/assets/fa2a6a85-e57d-429f-8d56-96087ae63f44)
+
+![image](https://github.com/user-attachments/assets/4dffbb30-f45a-4979-9610-066dde400302)
+
+![image](https://github.com/user-attachments/assets/df9444b5-0486-420a-9a35-6794a3be0b6a)
+
+Unateness is also important for the timing analysis and it is used by the STA tools. Timing sense is denoted by unateness.
+
+![image](https://github.com/user-attachments/assets/d35188a3-1244-4599-801b-335383ebc6ab)
+
+Let us see the timing arcs of AND gate. It has multiple timing arcs. There are 5 arcs shown for AND gate. But, the 5th arc is not used. When '0' is given to one input, the output will be of 'no change'. But it is not used because, when one input is '0', the input will not gets propagated to the output.
+
+![image](https://github.com/user-attachments/assets/214c6d7e-c722-40ee-9600-8937d0f221ba)
+
+Till we discussed about Positive unate, then we discuss about negative unate.
+
+![image](https://github.com/user-attachments/assets/347878f7-3abf-43a6-86a7-144ef3aa2609)
+
+For NAND gate, 5 arcs are shown and in the 5th graph, when one input is 0, without considering the other input, without change, the output will always be high. So, it is not a valid timing arc.
+
+![image](https://github.com/user-attachments/assets/bf754f97-9b20-444d-a011-1eac57f2122f)
+
+In Non Unate case, the output rise and fall transition is not directly reflected on the input rise and fall transition. It depends upon what is the condition in the other pin.
+
+![image](https://github.com/user-attachments/assets/10d233a2-c64e-4b3a-93a2-72e2a47dab8b)
+
+Here, the .lib file used for timing analysis is given. It is given for inverter. It can be used by the timing analysis tool.
+
+![image](https://github.com/user-attachments/assets/37d7430d-6173-4659-a3bb-52ee9d6242c2)
+
+Till now we did the timing arc of combinational circuits. And hereafter we will see the timing arc of sequential circuits.
+
+![image](https://github.com/user-attachments/assets/2c1b8132-e6a3-4b03-9a81-71a0c6031e22)
+
+The output 'q' will come after the rising edge of the clock. The time between the rising edge and the data change is called the 'clock to q delay'.
+
+![image](https://github.com/user-attachments/assets/ef110542-823a-41ec-bdaa-608fa8fff331)
+
+![image](https://github.com/user-attachments/assets/6112cdc8-7ebb-4466-9fcc-587f41772610)
+
+Recovery check arc: The minimum time required between the deassertion of the reset signal and the arrival of the clock signal, such that the data can be captured by the clock's rising edge.
+
+Removal check arc: The minimum time after the rising edge of the clock, the reset should high to make the output in '0' till the next rising edge of clock. Why is this needed?, The output 'q' is driven by two inputs reset and d. So there is a possibility of creating a metastability state.
+
+![image](https://github.com/user-attachments/assets/eb605dde-d859-4154-bf41-4dd727053019)
+
+![image](https://github.com/user-attachments/assets/36cf1b34-00fb-4785-95a5-33ff3cc7ce87)
+
