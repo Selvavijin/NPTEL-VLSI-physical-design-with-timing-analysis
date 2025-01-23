@@ -653,3 +653,47 @@ Removal check arc: The minimum time after the rising edge of the clock, the rese
 
 ![image](https://github.com/user-attachments/assets/36cf1b34-00fb-4785-95a5-33ff3cc7ce87)
 
+Week 2 (lecture 9-Delay Parameters of a Combinational Circuit)
+
+![image](https://github.com/user-attachments/assets/5bf8886c-0314-4a95-84fe-c69606137f2c)
+
+Combinational circuits are the circuits where if we give any input to it, the output will gets generated after a delay. If the input changes, the output will also respond immediately. The input pulse width 'tpulse' should greater than the delay of the inverter, so that the output will come out and the delay can be measured. The below mentioned delay property(case 2) is the inertial delay property of the combinational circuit. 
+
+![image](https://github.com/user-attachments/assets/4c69061d-3ef7-44cb-a06c-7c42cb3b913b)
+
+How we can use this delay for the timing analysis?.
+
+![image](https://github.com/user-attachments/assets/59f03a6a-1608-46d7-b05b-896c9728c88f)
+
+![image](https://github.com/user-attachments/assets/e6c7d953-7164-4eb5-8269-545f3ebefd28)
+
+![image](https://github.com/user-attachments/assets/4ef77139-2620-42b0-99c5-47b7304cd3ef)
+
+From the previous lec_ture, we understood that the buffer is positive unate and the inverter is negative untate.
+
+![image](https://github.com/user-attachments/assets/6f7f726a-f037-4a81-a6be-c359afd5e89c)
+
+These rise and fall propagation delay are charcterized before the timing analysis of the path.
+
+![image](https://github.com/user-attachments/assets/5ccc17a9-afb7-41a1-a64e-502a34201263)
+
+![image](https://github.com/user-attachments/assets/ab77463d-440c-415b-bee0-c6c3e492932c)
+
+Here, why does the rise and fall transition time come into picture.
+
+![image](https://github.com/user-attachments/assets/153e47ef-597d-4655-bdeb-9e0145c70ede)
+
+The timing diagram which explains it is shown below.
+
+![image](https://github.com/user-attachments/assets/7134667a-192a-44db-aff4-395783592edc)
+
+Now what we are discussing is for the inverting gate and the things will change for non-inverting gate.
+We might think like, we need only the propagation delay and why we bother about the transition times?. Because, when more than one circuits are cascaded as shown below, we need those datas to calculate the delay.
+
+![image](https://github.com/user-attachments/assets/56ab3d8b-d0a3-4c16-8d2d-f0695b75a31c)
+
+Now, let us take a path and do the timing analysis and now let us not consider the transition times. If we look into the circuit, all the gates are inverting in nature.
+
+![image](https://github.com/user-attachments/assets/a204d46f-d45e-4009-abdc-89da3a279113)
+
+So, the rise propagation delay of this path is critical than the fall propagation delay.
