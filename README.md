@@ -697,3 +697,30 @@ Now, let us take a path and do the timing analysis and now let us not consider t
 ![image](https://github.com/user-attachments/assets/a204d46f-d45e-4009-abdc-89da3a279113)
 
 So, the rise propagation delay of this path is critical than the fall propagation delay.
+
+Week 2 (lecture 10-Delay Parameters of a Sequential Circuit)
+
+![image](https://github.com/user-attachments/assets/e395f25a-6f46-4bbb-9b65-a6f30684f3be)
+
+In sequential circuits there will not be a delay like we seen in combinational circuits. But, the input signal will wait for the clock signal to propagate to the output.
+
+![image](https://github.com/user-attachments/assets/fb8fd82e-4d7a-43c9-acd6-771e63c52a1c)
+
+We have two MUX and indirectly they are latched. Because, they have feedback loop.
+
+![image](https://github.com/user-attachments/assets/fd5de665-945d-4498-b4ba-e8efbf6eea8b)
+
+![image](https://github.com/user-attachments/assets/be0014ee-2d5f-4d5a-9c91-bbd5e696d2eb)
+
+Now let us go into the FF and see what are the delay available there. So, let us see the concept of Transmission gate first.
+
+![image](https://github.com/user-attachments/assets/868de405-2eee-4a77-a75f-2c6af3eff4a5)
+
+The input 'D' should arrive faster than the setup time. Otherwise, the data will not get in output.
+
+![image](https://github.com/user-attachments/assets/90a7f664-daf9-40fa-89d7-fd2b66a78aeb)
+
+During hold time, T2 and T3 are in ON state. And we need the data to be sent from 'Z' to 'Q'. At that time, if an unwanted data come form 'P1', that will also reflected in 'Q', which is not desired and this is due to HOLD VIOLATION. In case 1, the data should come after the rising edge of the clock so that it will be propagated. Because, if 'Tinitial' is smaller, then data D can go from 'P1' to 'W' faster and it can corrupt the data. In the case 2, the rising edge of clock and the data comes at the same time. So, the Transmission gate 'T1' will gets open and the data will not cross 'T1'. We are finding the hold with respect to the rising edge of the clock, so we are concluding like +ve, -ve,=. In the case 3, the data never crosses the 'T1' gate and so, the data in 'W' is not get corrupted. But, we should not add more buffer to the 'Tinitial' so that the hold will be negative. Because, it will also make the setup time longer and the speed gets affected.
+
+![image](https://github.com/user-attachments/assets/1902da81-1409-48f7-8420-83a9e120337f)
+
