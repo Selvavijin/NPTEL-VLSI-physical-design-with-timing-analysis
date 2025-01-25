@@ -724,3 +724,32 @@ During hold time, T2 and T3 are in ON state. And we need the data to be sent fro
 
 ![image](https://github.com/user-attachments/assets/1902da81-1409-48f7-8420-83a9e120337f)
 
+Week 2 (lecture 10-Timing Analysis in a Sequential Circuit)
+
+![image](https://github.com/user-attachments/assets/a30f1603-26a7-49b6-8a53-f6c5c35cc93b)
+
+The first four delay is for the FF and the last two is for the combinational circuits. If we wish to find the maximum delay, we need to find both delays.
+
+![image](https://github.com/user-attachments/assets/0906f31a-7f87-4f15-be6c-ff83c3d1d643)
+
+Uses of sequential circuits is shown in the diagram below. In pipeline, if we have bigger combinational delay, we will divide the delay into smaller combinational delay and place the FF between the combinational delays. It is also used in other places like shift registers, counters etc.
+
+![image](https://github.com/user-attachments/assets/66155a40-0fa7-4d20-a9dd-4315e0183869)
+
+Maximum Timing Analysis:
+FF1 is launching the data, so it is called launch FF. FF2 is capturing the data, so it is called capture FF. This analysis starts with one clock edge and ends in another clock edge(one cycle). Let us say  that there are 'n' number of FFs. So, we have to do the maximum timing analysis for all the FFs(ie :the worst case time) and then fix the clock signal or the frequency of operation.
+
+![image](https://github.com/user-attachments/assets/4f4f378f-7f3f-4133-85cc-d541b4f52340)
+
+s-slow, t-typical, f-fast. There are many corners as shown in the figure below which depends on the speed of transister. And for worst case analysis we use this. For maximum timing analysis we use 'ss' where the nmos is slow and also the pmos is slow.
+
+![image](https://github.com/user-attachments/assets/ce4b09f1-13af-4d92-aea3-23a6193f3ac9)
+
+Minimum timing analysis:
+For this we consider the hold time. For maximum timing analysis, we used one clock cycle(ie: two edges). But, here we will use only one edge.
+
+![image](https://github.com/user-attachments/assets/9d3ae8b0-c627-4d95-bb7d-92105733a818)
+
+After manufacturing, if the chip has a setup violaton, it can be rectified by slowing down the clock speed. Because the clock is sent from the outside chip. But, if there is a hold violation, we can't insert a buffer after manufacturing. So, it is not easy. But, there is a technique which is adding number of isolated buffers based on the requirement. This is possible because, these are in metal layers and not in the transistor level. So, this metal modification will be quite low cost compared to the manufacturing of the chip two times.
+
+![image](https://github.com/user-attachments/assets/524401b5-8651-4106-a264-e8347abba989)
