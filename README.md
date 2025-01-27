@@ -724,7 +724,7 @@ During hold time, T2 and T3 are in ON state. And we need the data to be sent fro
 
 ![image](https://github.com/user-attachments/assets/1902da81-1409-48f7-8420-83a9e120337f)
 
-Week 2 (lecture 10-Timing Analysis in a Sequential Circuit)
+Week 2 (lecture 11-Timing Analysis in a Sequential Circuit)
 
 ![image](https://github.com/user-attachments/assets/a30f1603-26a7-49b6-8a53-f6c5c35cc93b)
 
@@ -753,3 +753,30 @@ For this we consider the hold time. For maximum timing analysis, we used one clo
 After manufacturing, if the chip has a setup violaton, it can be rectified by slowing down the clock speed. Because the clock is sent from the outside chip. But, if there is a hold violation, we can't insert a buffer after manufacturing. So, it is not easy. But, there is a technique which is adding number of isolated buffers based on the requirement. This is possible because, these are in metal layers and not in the transistor level. So, this metal modification will be quite low cost compared to the manufacturing of the chip two times.
 
 ![image](https://github.com/user-attachments/assets/524401b5-8651-4106-a264-e8347abba989)
+
+Week 2 (lecture 12-STA in Sequential Circuit with Clock Skew – I)
+
+![image](https://github.com/user-attachments/assets/475ed795-650a-4972-941e-78d3a3464e3e)
+
+Ideally the clock will reach two FFs at the same time. But, practically it will not attain at the same time due to the buffer present in between them or due to the length of the interconnect which provides some delay.
+Spatial variation - location of FF. Even if there are two buffers, their delay time should not be similar.
+static variation - once the chip is fabricated, we know what is the variation in the clock skew between two registers or FF and it will not dynamically change.
+A.T: Arrival Time.
+
+![image](https://github.com/user-attachments/assets/cb7d6553-0146-4b2b-85ad-33f8cf736ccf)
+
+If the data and the clock is moving in the same direction, then it is positive skew.
+
+![image](https://github.com/user-attachments/assets/e61d6742-eb1f-465c-98b7-cf27f960b48e)
+
+![image](https://github.com/user-attachments/assets/3c533a8c-d650-4206-aef7-0fa0a4aff775)
+
+From the below slide, it is concluded that the positive skew will increase the speed(frequency). But, there is a disadvantage which is seen in hold check.
+
+![image](https://github.com/user-attachments/assets/96d3b729-4d16-423c-8cea-6753eafbdf3e)
+
+For setup check, we considered edges 1,2,3,4. But, for hold check we consider only edges 1 and 2. It is important to note that, if the setup time is violated, we can adjust the clock speed. But if the hold time is violated, we have to refabricate the entire chip to add buffer or we have to add buffer using the metal layers as mentioned in the previous lecture.
+
+![image](https://github.com/user-attachments/assets/aa4752fa-71bf-4d27-84bc-2cca82f5b514)
+
+
