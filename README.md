@@ -760,7 +760,7 @@ Week 2 (lecture 12-STA in Sequential Circuit with Clock Skew – I)
 
 Ideally the clock will reach two FFs at the same time. But, practically it will not attain at the same time due to the buffer present in between them or due to the length of the interconnect which provides some delay.
 Spatial variation - location of FF. Even if there are two buffers, their delay time should not be similar.
-static variation - once the chip is fabricated, we know what is the variation in the clock skew between two registers or FF and it will not dynamically change.
+static variation - once the chip is fabricated, we can find the variation in the clock skew between two registers or FF and it will not dynamically change.
 A.T: Arrival Time.
 
 ![image](https://github.com/user-attachments/assets/cb7d6553-0146-4b2b-85ad-33f8cf736ccf)
@@ -779,4 +779,24 @@ For setup check, we considered edges 1,2,3,4. But, for hold check we consider on
 
 ![image](https://github.com/user-attachments/assets/aa4752fa-71bf-4d27-84bc-2cca82f5b514)
 
+Week 3 (lecture 13-STA in Sequential Circuit with Clock Skew – II)
 
+![image](https://github.com/user-attachments/assets/d30844ed-3f73-4b5e-9987-a87a0d51d658)
+
+![image](https://github.com/user-attachments/assets/b2374547-3da0-44c8-bc52-edf472d88a50)
+
+![image](https://github.com/user-attachments/assets/761f02a2-aa77-4e8c-912a-1fb0c9d3f737)
+
+This delta will help to fix the hold violation easily. 
+
+![image](https://github.com/user-attachments/assets/ee17fcfe-d72a-44e2-87d4-c9bbc33903fc)
+
+![image](https://github.com/user-attachments/assets/cde18284-0ee8-479e-b0ab-32e652482703)
+
+We should note that, even if we adjust the clock speed, it will not mitigate the hold violation. The only way to solve is to insert the buffer in combinational path.
+
+![image](https://github.com/user-attachments/assets/73688716-4048-4127-ab47-5184cc3de3f7)
+
+![image](https://github.com/user-attachments/assets/12ec1cce-90df-4062-9f7a-762497f066c7)
+
+![image](https://github.com/user-attachments/assets/cf4c5cf6-49ad-4a49-a686-91522b820e95)
