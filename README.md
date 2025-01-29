@@ -793,10 +793,28 @@ This delta will help to fix the hold violation easily.
 
 ![image](https://github.com/user-attachments/assets/cde18284-0ee8-479e-b0ab-32e652482703)
 
-We should note that, even if we adjust the clock speed, it will not mitigate the hold violation. The only way to solve is to insert the buffer in combinational path.
+We should note that, even if we adjust the clock speed, it will not mitigate the hold violation. The only way to solve is to insert the buffer in combinational path. Initially we do the analysis without the skew and then we do the analysis with skew. And we here considered positive skew.
 
 ![image](https://github.com/user-attachments/assets/73688716-4048-4127-ab47-5184cc3de3f7)
 
 ![image](https://github.com/user-attachments/assets/12ec1cce-90df-4062-9f7a-762497f066c7)
 
+![image](https://github.com/user-attachments/assets/958450c1-bd79-401a-bf58-fd89a935dc5b)
+
+![image](https://github.com/user-attachments/assets/e1589bba-07b3-4c97-a3ae-ed69f5917963)
+
+Clock generation can be done using PLL or crystals. We should know the specifications of those things. Because, that is source of jitter.
+
+![image](https://github.com/user-attachments/assets/02f9ae80-d362-4a4f-82d4-6dfd373d81a4)
+
+![image](https://github.com/user-attachments/assets/a2170cf1-464c-4a9f-8962-5e1922dc5817)
+
+
 ![image](https://github.com/user-attachments/assets/cf4c5cf6-49ad-4a49-a686-91522b820e95)
+
+Week 3 (lecture 14-STA in Sequential Circuit with Clock Jitter)
+
+![image](https://github.com/user-attachments/assets/0cf0e0e7-2ac7-4d1f-a1b9-f25f7378032a)
+
+![image](https://github.com/user-attachments/assets/1f25f6b5-52c1-4b4e-bd0d-4eb89d8eebd9)
+
