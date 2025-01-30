@@ -818,3 +818,10 @@ Week 3 (lecture 14-STA in Sequential Circuit with Clock Jitter)
 
 ![image](https://github.com/user-attachments/assets/1f25f6b5-52c1-4b4e-bd0d-4eb89d8eebd9)
 
+![image](https://github.com/user-attachments/assets/326c672b-9234-4eed-82cf-1f06bb700045)
+
+![image](https://github.com/user-attachments/assets/8ae9eed4-c6f0-4636-ad7a-117cd6225d73)
+
+![image](https://github.com/user-attachments/assets/8e0c2a26-750b-4ad1-a772-a1788ea3b077)
+
+![image](https://github.com/user-attachments/assets/2864a68f-e91f-49c5-91c1-b0d2db6332f1)
