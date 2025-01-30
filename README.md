@@ -825,3 +825,37 @@ Week 3 (lecture 14-STA in Sequential Circuit with Clock Jitter)
 ![image](https://github.com/user-attachments/assets/8e0c2a26-750b-4ad1-a772-a1788ea3b077)
 
 ![image](https://github.com/user-attachments/assets/2864a68f-e91f-49c5-91c1-b0d2db6332f1)
+
+Week 3 (lecture 15-STA considering OCV and CRPR (Setup check))
+
+![image](https://github.com/user-attachments/assets/bd8e1e5a-d48f-49e2-a4e2-1c368b6af61c)
+
+![image](https://github.com/user-attachments/assets/00483c77-2b1f-4ea3-9b8b-c5739ebb2fcb)
+
+As mentioned in the diagram above, for setup time check, the data arrival time should be less than data required time for the successful capture of data at the capture FF.
+
+![image](https://github.com/user-attachments/assets/3f3f8e01-aeb2-44dd-b3ff-eb5d673282f9)
+
+![image](https://github.com/user-attachments/assets/df853956-12b8-4346-958b-22749fd1e9f2)
+
+When the slack is positive, the data will arrive fast and wait for the clock to reach the FF in capture FF. Here the time is wasting and no other issues. But, if the slack is negative, it leads to setup violation.
+
+![image](https://github.com/user-attachments/assets/7f34960f-a283-4fcf-868c-6f68a8b2df37)
+
+![image](https://github.com/user-attachments/assets/3a8ebffc-5aad-4f26-b20c-785b02151e86)
+
+For the worst case, The data arrival time(DAT) should be treated as maximum and data required time(DRT) should be treated as minimum. 
+
+![image](https://github.com/user-attachments/assets/b16824f1-83f6-4784-8b88-84ad462bc6d6)
+
+![image](https://github.com/user-attachments/assets/03aab3c8-9c0d-48ff-bb00-d1b08db8bffe)
+
+For launch path and capture path we considered late and early respectively from the same common path itself, which is not correct. Because for the same path we considered early and late. So we introduce a term called CPP.
+
+![image](https://github.com/user-attachments/assets/470df222-594b-4030-a46a-0819f17d458a)
+
+We have different derating for the launch path and capture path which is not correct. So, we need to correct it with the CRPR.
+
+![image](https://github.com/user-attachments/assets/da23260a-b9c1-47e4-b49f-2ec59d6d4501)
+
+
