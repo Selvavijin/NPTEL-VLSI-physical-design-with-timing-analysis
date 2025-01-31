@@ -858,4 +858,23 @@ We have different derating for the launch path and capture path which is not cor
 
 ![image](https://github.com/user-attachments/assets/da23260a-b9c1-47e4-b49f-2ec59d6d4501)
 
+Week 3 (lecture 16-STA considering OCV and CRPR (Hold check))
+
+![image](https://github.com/user-attachments/assets/a7467b24-933f-4c7e-84c1-3ea04ee2755f)
+
+![image](https://github.com/user-attachments/assets/2e38daa3-683d-4b8e-aaa5-e6519160fca9)
+
+The below shown is the ideal case which has no buffer.
+
+![image](https://github.com/user-attachments/assets/23c44a7b-d784-489e-b2fd-d8fff33a981c)
+
+![image](https://github.com/user-attachments/assets/ed5d54b6-337e-4ca5-92e3-ebfd39857483)
+
+The derating factors are given from the foundry.
+
+![image](https://github.com/user-attachments/assets/c7747a95-a53e-4f85-b771-f5f177e5ec7a)
+
+Still hold violation exists but it is reduced. And it can be solved by buffer insertion.
+
+![image](https://github.com/user-attachments/assets/b9769123-baae-41d0-b52d-9e066157df8b)
 
