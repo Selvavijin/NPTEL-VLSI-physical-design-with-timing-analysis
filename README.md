@@ -878,3 +878,28 @@ Still hold violation exists but it is reduced. And it can be solved by buffer in
 
 ![image](https://github.com/user-attachments/assets/b9769123-baae-41d0-b52d-9e066157df8b)
 
+Week 3 (lecture 17-STA for Combinational Circuits – I)
+
+![image](https://github.com/user-attachments/assets/d15f754f-e43b-4755-bca0-ecb8700049c1)
+
+![image](https://github.com/user-attachments/assets/d013806a-65b9-45fa-ba22-0a49c2281d20)
+
+![image](https://github.com/user-attachments/assets/cce0448c-5aa4-4895-95a4-0d287674af42)
+
+3/4 -> 3 is the rise arrival time of a, 4 is the fall arrival time of a.
+2/3 -> 2 is the rise time, 3 is the fall time.
+6/8 -> 6 is the output rise arrival time, 8 is the output fall arrival time.
+
+![image](https://github.com/user-attachments/assets/7155d1d6-5b30-477f-9c7d-9baf432481ee)
+
+![image](https://github.com/user-attachments/assets/4373ef90-16ba-494d-8245-25754999e42e)
+
+![image](https://github.com/user-attachments/assets/f45bb424-e67f-4b97-9d5a-adb6a6af8dff)
+
+![image](https://github.com/user-attachments/assets/0bf6d46b-c7a6-420b-b47f-c2992bd89e2d)
+
+![image](https://github.com/user-attachments/assets/4d0ac295-2b61-4e99-a690-d810516242fb)
+
+![image](https://github.com/user-attachments/assets/5e1a76d3-8b90-4048-840d-7f8d068becd6)
+
+![image](https://github.com/user-attachments/assets/ae4ef986-d7f1-4310-b470-cb0230395108)
