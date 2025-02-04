@@ -903,3 +903,23 @@ Week 3 (lecture 17-STA for Combinational Circuits – I)
 ![image](https://github.com/user-attachments/assets/5e1a76d3-8b90-4048-840d-7f8d068becd6)
 
 ![image](https://github.com/user-attachments/assets/ae4ef986-d7f1-4310-b470-cb0230395108)
+
+Week 3 (lecture 18-STA for Combinational Circuits – II)
+
+![image](https://github.com/user-attachments/assets/f466d92c-e591-4632-8766-48e49b9f3846)
+
+![image](https://github.com/user-attachments/assets/c6f1d71d-5e2b-49fd-ba3e-69dbed63517e)
+
+![image](https://github.com/user-attachments/assets/5500778b-c2cd-4a34-9614-5bcea3b5074d)
+
+![image](https://github.com/user-attachments/assets/09ec48b2-c709-4f60-b426-6b2384e51d6e)
+
+![image](https://github.com/user-attachments/assets/8e8d973d-8fd2-4ead-bde2-ea8d73de0f66)
+
+a and b inputs have same required time. Because, a and b are the inputs for the same gate. Similarly for c and d.
+
+![image](https://github.com/user-attachments/assets/443ceae9-e784-474f-aa67-0b68c243aec6)
+
+Critical path is the one which have largest negative slack. So, when we are finding the critical path, we have to move from the Primary output to the primary input.
+
+![image](https://github.com/user-attachments/assets/1e18b374-58ad-404e-a39a-84d648f09881)
