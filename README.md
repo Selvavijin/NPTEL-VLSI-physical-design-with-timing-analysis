@@ -923,3 +923,43 @@ a and b inputs have same required time. Because, a and b are the inputs for the 
 Critical path is the one which have largest negative slack. So, when we are finding the critical path, we have to move from the Primary output to the primary input.
 
 ![image](https://github.com/user-attachments/assets/1e18b374-58ad-404e-a39a-84d648f09881)
+
+Week 4 (lecture 19-Introduction to Partitioning – I)
+
+Partitioning is the first step of any System level or Board level or Chip level design.
+
+![image](https://github.com/user-attachments/assets/54888f88-725c-442a-9510-6fa005341e14)
+
+Partitioning is done to increase the productivity. Eg: Dividing the processor into, ALU, control unit, etc. This method is quite similar to the Divide and Conqure Algorithm.
+
+![image](https://github.com/user-attachments/assets/2be88d31-291f-426a-a977-70828fd76e3e)
+
+There are 48 gates present. And we are planning it to divide into 3. So, each partition should have like 16 transistors each. But, we can adjust some gates as shown below. So, different people can work on the implementation of each partition parallely and combine it for faster process. Looking at the interconnects inbetween the partition is also important. This is one method to implement faster. 
+
+![image](https://github.com/user-attachments/assets/66642bff-0c60-475b-abf9-3260c35101ee)
+
+Finding the best partition.
+
+![image](https://github.com/user-attachments/assets/c23e1caf-f46f-4631-aa74-c60b954babb0)
+
+Also, we should not do partition blindly. The number of interconnections between partition should be as minimum as possible.
+
+![image](https://github.com/user-attachments/assets/ef81c764-f31c-42f2-a5fc-83ed36035a70)
+
+Cell - Eg: logic gates.
+
+![image](https://github.com/user-attachments/assets/bb4642ed-3595-4af5-a2db-b6b8da101021)
+
+![image](https://github.com/user-attachments/assets/b39d16c8-e03f-4729-bfd8-f5bfe45771c6)
+
+Eg:
+![image](https://github.com/user-attachments/assets/e2df127c-feae-4c62-9434-4ee6b45b2d5c)
+
+System level partitioning - Eg: Boards in the computer like mother board, memory and other boards.
+Board level partitioning - Eg: ICs in the PCB
+
+![image](https://github.com/user-attachments/assets/884fc8d9-30ee-42b9-84ed-f65ce9d5d6f5)
+
+![image](https://github.com/user-attachments/assets/9b0e5988-9a26-4c40-ab84-c29ce06e7d57)
+
+
