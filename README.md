@@ -962,4 +962,15 @@ Board level partitioning - Eg: ICs in the PCB
 
 ![image](https://github.com/user-attachments/assets/9b0e5988-9a26-4c40-ab84-c29ce06e7d57)
 
+![image](https://github.com/user-attachments/assets/701574b9-98a7-448a-998d-7c014ea42c47)
+
+![image](https://github.com/user-attachments/assets/15081435-011d-40b8-a48f-5d4e305f9430)
+
+![image](https://github.com/user-attachments/assets/adb32a85-a5fb-4089-947d-64361376a603)
+
+![image](https://github.com/user-attachments/assets/94094b61-d4f1-4060-86ae-f052df22ae78)
+
+We can't change the routing inside the chip. But, we can optimize the routing in PCB board. The requirements will depend on the need. Eg: let us say that we need high resolution ADC, then we can use PCB 3.
+
+![image](https://github.com/user-attachments/assets/c50e7e3d-9275-4381-971b-208b3136af0d)
 
