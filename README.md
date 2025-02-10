@@ -974,3 +974,45 @@ We can't change the routing inside the chip. But, we can optimize the routing in
 
 ![image](https://github.com/user-attachments/assets/c50e7e3d-9275-4381-971b-208b3136af0d)
 
+Week 4 (lecture 20-Introduction to Partitioning – II)
+
+![image](https://github.com/user-attachments/assets/4219fc98-3afe-4bc2-a01c-e52683710daa)
+
+![image](https://github.com/user-attachments/assets/19d1ef89-b923-41bc-a382-f9ea03fe3e97)
+
+![image](https://github.com/user-attachments/assets/9500b4ae-8523-4ca1-8a08-c11710dd2dba)
+
+![image](https://github.com/user-attachments/assets/a3a4fb93-16ad-4693-9078-8429495f7e2b)
+
+![image](https://github.com/user-attachments/assets/51bfe184-cde9-4f05-be44-4918f030f6eb)
+
+![image](https://github.com/user-attachments/assets/970a592f-14f9-4097-8b46-184a4b1e0776)
+
+![image](https://github.com/user-attachments/assets/47d4c986-a011-4b44-ad57-13ecb339ed1c)
+
+Now we will see some constraints.
+
+![image](https://github.com/user-attachments/assets/edf3ae6b-d92d-4342-b4af-c0340b68998a)
+
+![image](https://github.com/user-attachments/assets/45520314-7618-4f35-9a47-a764407c8633)
+
+![image](https://github.com/user-attachments/assets/49a4205f-5580-4d9a-9dfd-dc6b3a0fdc43)
+
+![image](https://github.com/user-attachments/assets/d5acaac3-5f00-4fd4-870c-61be10a8041e)
+
+![image](https://github.com/user-attachments/assets/33b68806-033c-4f2f-92d5-8547953134ac)
+
+![image](https://github.com/user-attachments/assets/8870ba4f-6bad-4564-a24b-0468164d0f9a)
+
+Pitch - distance between two terminals.
+
+![image](https://github.com/user-attachments/assets/f8ea3d61-c2fc-4537-bf4e-bdf656501f1b)
+
+Obj1 : Minimum number of cuts between partitions. Cons1: Number of terminals. Cons2: Area
+
+![image](https://github.com/user-attachments/assets/f1c24ac8-b7e6-4936-a27f-79bc38d52158)
+
+![image](https://github.com/user-attachments/assets/8e7f04c6-cbaf-4c7f-94e9-60ba3f9bed74)
+
+![image](https://github.com/user-attachments/assets/879be37e-d26c-43f8-b85d-97b28250c3bb)
+
