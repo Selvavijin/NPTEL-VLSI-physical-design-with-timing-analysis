@@ -1016,3 +1016,65 @@ Obj1 : Minimum number of cuts between partitions. Cons1: Number of terminals. Co
 
 ![image](https://github.com/user-attachments/assets/879be37e-d26c-43f8-b85d-97b28250c3bb)
 
+Week 4 (lecture 21-Partitioning Algorithms)
+
+![image](https://github.com/user-attachments/assets/684c4dac-bfea-4d8b-b6ba-7fae91d7c734)
+
+![image](https://github.com/user-attachments/assets/5fd50c19-b09f-4fe3-aba9-2452d6c0a11a)
+
+![image](https://github.com/user-attachments/assets/da6ce8e9-8723-4c08-b92e-2b148a510294)
+
+initial partition - It means that we don't get the optimal solution but we get the partition in less time using constructive algorithms.
+1.Based on the availability of initial partition
+![image](https://github.com/user-attachments/assets/bb401a9c-1c13-4c69-9fb4-d37e120c8dd4)
+
+![image](https://github.com/user-attachments/assets/ae5b10dc-d1c7-48c9-9525-68a4d14193de)
+
+2.Based on the nature of algorithms
+    In deterministic algorithm, if we give some input to the algorithm, we will get the same solution all the time.  
+
+  ![image](https://github.com/user-attachments/assets/b0ef9fcd-fb76-496e-a2e6-5eb16bacb0b8)
+
+In random algorithm, if we change the input, we get different outputs.
+
+![image](https://github.com/user-attachments/assets/62e9f791-5a04-4ba8-8651-da90cac7432a)
+
+3.Based on the process used for partitioning.
+    In group Migration algorithm, the inputs will the initial partition that are generated before. In the picture, if we move G2 to the P2, the number of interconnections will be reduced.
+
+  ![image](https://github.com/user-attachments/assets/efe61e9a-2088-4c63-a6ec-851b9aa399e1)
+
+In deterministic algorithms, we should get only optimal solutions and it is not ready to take any bad solutions. But in this method shown in the below picture, it allows to consider even the bad solution with the hope that we will get better solutions in the future iterations.
+
+![image](https://github.com/user-attachments/assets/383b620c-7173-41d5-a786-bf08d29c747d)
+
+Simulated anealing is one of the algorithms used in the industry for partition. 
+
+![image](https://github.com/user-attachments/assets/197bc44e-62be-407b-9621-2602efcebfac)
+
+![image](https://github.com/user-attachments/assets/03049bbe-d86f-4314-b529-6aab9e6cbe47)
+
+![image](https://github.com/user-attachments/assets/5b169c8d-665c-4602-8326-b54cb98fb15b)
+
+![image](https://github.com/user-attachments/assets/dccc1647-aef6-4ca8-98fc-4ee750b04337)
+
+![image](https://github.com/user-attachments/assets/b11b46ae-c75e-4d02-80f5-86b5d829815e)
+
+![image](https://github.com/user-attachments/assets/34cb301a-3c89-4eec-8120-8cba05c6871b)
+
+In KL algorithm, there should be equal number of nodes maintained in each partition. So, if we want to move one node from this to other partition, we also have to move one node from other to this partition. If there is a edge present between g1 and g2, we have to consider the edge weight. Otherwise it is 0.
+
+![image](https://github.com/user-attachments/assets/11e699ab-9313-4982-9510-f4e6cc9acc98)
+
+![image](https://github.com/user-attachments/assets/d40f65ba-190d-4202-8944-61f1a033a578)
+
+![image](https://github.com/user-attachments/assets/9a1717f1-5ef7-4703-8a6d-8c9dd78797d3)
+
+Here, the gain is maximum. So, we swap the two nodes.
+
+![image](https://github.com/user-attachments/assets/4984c84b-36bb-4040-9439-5f4100f01b56)
+
+![image](https://github.com/user-attachments/assets/8f027bae-d2dc-4fcc-9907-e839e6ccf0c1)
+
+
+
