@@ -1076,5 +1076,68 @@ Here, the gain is maximum. So, we swap the two nodes.
 
 ![image](https://github.com/user-attachments/assets/8f027bae-d2dc-4fcc-9907-e839e6ccf0c1)
 
+Week 4 (lecture 22-Kernighan – Lin (KL) Algorithm)
+
+![image](https://github.com/user-attachments/assets/f1f91e74-b9c5-4f2c-b05b-829fe5ba4c69)
+
+![image](https://github.com/user-attachments/assets/b75f6a0f-1d9d-434f-9c9b-60e640fe4f48)
+
+![image](https://github.com/user-attachments/assets/22222f11-ad7c-423e-bc8b-28b09fa4176d)
+
+This process will continue till all the nodes are fixed.
+
+![image](https://github.com/user-attachments/assets/bf231be7-70c5-4f17-aca5-5fe4e59b04a0)
+
+![image](https://github.com/user-attachments/assets/8b1a4348-b27c-4942-b414-3b0e7816e8e1)
+
+![image](https://github.com/user-attachments/assets/5fabebd4-e708-4445-8349-5e2fbb25f4ca)
+
+![image](https://github.com/user-attachments/assets/4648ea53-755d-4ad6-a142-36402a7ab9ff)
+
+![image](https://github.com/user-attachments/assets/054b1350-f657-406c-a2b0-3895878b1933)
+
+Now, node 2 and 9 is fixed.
+
+![image](https://github.com/user-attachments/assets/54e96693-9aa4-4869-81a5-1ec592480e39)
+
+![image](https://github.com/user-attachments/assets/d4b6723d-da11-4c6c-996e-301a2020cad6)
+
+![image](https://github.com/user-attachments/assets/0e9ed2eb-17bb-4ff5-a0a6-a1d760bd7fa2)
+
+![image](https://github.com/user-attachments/assets/efcbb0e3-7bc9-4c90-a610-8486f29e7eea)
+
+![image](https://github.com/user-attachments/assets/664c67d2-84cc-4b43-8af1-59b2cbd0e985)
+
+![image](https://github.com/user-attachments/assets/87f581aa-64b4-46b2-9534-639c5ea3995b)
+
+![image](https://github.com/user-attachments/assets/b035e599-46c8-44d3-9ae8-dc10ae74bf78)
+
+![image](https://github.com/user-attachments/assets/5fd310db-8026-4db0-8929-df535edc293d)
+
+![image](https://github.com/user-attachments/assets/1841adea-a388-438b-9119-1aa67d555238)
+
+![image](https://github.com/user-attachments/assets/169f71be-1dc0-4c41-a284-1c7d39a67de0)
+
+We have to execute till the gain is negative. So, we need to execute further from the desired step.
+
+![image](https://github.com/user-attachments/assets/78b16217-9781-4da4-9391-bedfde2863c9)
+
+So, we go for the 2nd pass.
+
+![image](https://github.com/user-attachments/assets/b2c8a2d7-11c1-401a-9635-edf71031912a)
+
+![image](https://github.com/user-attachments/assets/218f41bd-4b0b-4384-8aaf-72123635a47f)
+
+![image](https://github.com/user-attachments/assets/a961b047-37f5-4005-b672-3d774de3a65a)
+
+So, we got all the gains negative and we can stop the algorithm here.
+
+![image](https://github.com/user-attachments/assets/94f86c9f-d1b7-4f5a-9ffe-12ca1d907c2c)
+
+![image](https://github.com/user-attachments/assets/40bc1033-08c2-41da-b60c-a0a44aac9933)
+
+![image](https://github.com/user-attachments/assets/c571c716-5d34-41c6-a2a5-0ee9f523408d)
+
+![image](https://github.com/user-attachments/assets/d2ae7044-83b0-4c7b-b53d-3214d0c9d0fa)
 
 
