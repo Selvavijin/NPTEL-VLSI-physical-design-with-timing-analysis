@@ -1140,4 +1140,85 @@ So, we got all the gains negative and we can stop the algorithm here.
 
 ![image](https://github.com/user-attachments/assets/d2ae7044-83b0-4c7b-b53d-3214d0c9d0fa)
 
+Week 4 (lecture 23-Fidduccia-Mattheyeses(FM) Algorithm)
+
+![image](https://github.com/user-attachments/assets/fb2ecad4-b1f6-43cb-b1d8-b3c88b1f9cb1)
+
+![image](https://github.com/user-attachments/assets/3060a8f8-190c-456b-a1e0-a25f83fc363f)
+
+Here, the number of cells in each partition is not important. But the area of individual cells is considered. Also, we can move the cell from one partition to another partition without swapping.
+
+![image](https://github.com/user-attachments/assets/beda23e3-bec2-4635-bbc7-c5059bae83b1)
+
+Hyper graph is not possible in KL algorithm.
+
+![image](https://github.com/user-attachments/assets/9a7170fe-0c27-4d3b-a3c8-2f6818c9e884)
+
+'Moving force' tells that we need to move the gate from one partition to another. 'Retention graph' tells that we need to retain the gate in the same partition.
+
+![image](https://github.com/user-attachments/assets/23c4cfbf-ec9b-4efd-9728-8f450f57ca62)
+
+So, if we move the 2 to other partition, the number of cutcost will be increased by 1.
+
+![image](https://github.com/user-attachments/assets/2f990ea9-23be-4892-be02-7afb676733c6)
+
+Once we write FS and TE for all the nodes, we need to find the cells which have high gain. So, here we can choose cell 1 or 5.
+
+![image](https://github.com/user-attachments/assets/459845c0-0e02-4fc3-ba78-e04d486e0d6f)
+
+![image](https://github.com/user-attachments/assets/0bc1546e-4f4b-40eb-b517-cbc909182073)
+
+![image](https://github.com/user-attachments/assets/371512e8-2664-462d-bf3d-ce2495d26a79)
+
+![image](https://github.com/user-attachments/assets/3a47f92d-042a-49cf-9f56-0725e83ace56)
+
+![image](https://github.com/user-attachments/assets/d64c8bee-d912-4076-b6dc-ae551c8fe66b)
+
+![image](https://github.com/user-attachments/assets/764f4059-d05f-4044-ad50-24b2147768f9)
+
+Free cells are the cells which are not fixed.
+
+![image](https://github.com/user-attachments/assets/330d22d5-e143-4f79-9976-3f83f7a73e5e)
+
+![image](https://github.com/user-attachments/assets/c060347c-716c-4e2b-8753-33c6b76791fb)
+
+![image](https://github.com/user-attachments/assets/1e4e8cb3-af39-4272-85e6-4c811132c9eb)
+
+Then find out the iteration where the Gm is maximum.
+
+![image](https://github.com/user-attachments/assets/b797c91d-90b0-42f4-987c-04ab446fb028)
+
+![image](https://github.com/user-attachments/assets/cc9467ea-0d63-4b1a-bc07-8e69cfa6f357)
+
+Whenever we are doing all the steps, we have to make sure that the balance criteria is met.
+
+![image](https://github.com/user-attachments/assets/e83221fb-5445-454c-9c1f-3df59224b56e)
+
+![image](https://github.com/user-attachments/assets/0409ffab-ace3-4deb-9090-0cf1628262d3)
+
+![image](https://github.com/user-attachments/assets/e66cf447-254a-41d0-829d-068919cbb7f1)
+
+![image](https://github.com/user-attachments/assets/5737e3a1-3464-4a3f-a495-078871f3b54b)
+
+![image](https://github.com/user-attachments/assets/63c3291b-b92a-49ab-895f-3fa8a48b04d0)
+
+![image](https://github.com/user-attachments/assets/fe4e178d-4b1a-4220-87fb-968c03b47507)
+
+![image](https://github.com/user-attachments/assets/538f7034-8ba5-44d8-b9e7-bc3198394183)
+
+![image](https://github.com/user-attachments/assets/a20c009e-bad4-44c6-a0c0-8b2c514f6bce)
+
+![image](https://github.com/user-attachments/assets/39789c3a-de66-4a9f-be79-4c88d1091a88)
+
+![image](https://github.com/user-attachments/assets/1d208629-ad9d-4597-8665-6c5f9933adb1)
+
+![image](https://github.com/user-attachments/assets/9707d051-2c86-4e8e-8515-0df4ef14da42)
+
+![image](https://github.com/user-attachments/assets/2a00a10a-7fe9-4664-b35e-6febcede281c)
+
+![image](https://github.com/user-attachments/assets/f11b3426-2950-4d34-83a8-05504f63b2a6)
+
+![image](https://github.com/user-attachments/assets/975a12db-78ce-4f51-9b9b-734e3bfff6a0)
+
+
 
