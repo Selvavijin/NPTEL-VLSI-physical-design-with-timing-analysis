@@ -1220,5 +1220,13 @@ Whenever we are doing all the steps, we have to make sure that the balance crite
 
 ![image](https://github.com/user-attachments/assets/975a12db-78ce-4f51-9b9b-734e3bfff6a0)
 
+Week 5 (lecture 24-Introduction to Floorplanning)
 
+![image](https://github.com/user-attachments/assets/4444caf4-258b-4183-b7a1-2423d9d68119)
+
+![image](https://github.com/user-attachments/assets/04c5d2ca-02c1-411c-88e8-3d3c13111adf)
+
+![image](https://github.com/user-attachments/assets/3668ab12-9f6b-4696-bfe7-daa84e507f40)
+
+![image](https://github.com/user-attachments/assets/0739d98b-7aa7-47b6-9a3c-f88949ca8de2)
 
