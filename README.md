@@ -1230,3 +1230,25 @@ Week 5 (lecture 24-Introduction to Floorplanning)
 
 ![image](https://github.com/user-attachments/assets/0739d98b-7aa7-47b6-9a3c-f88949ca8de2)
 
+![image](https://github.com/user-attachments/assets/afda2ff6-7c99-449f-ba7b-35691cbd4c23)
+
+![image](https://github.com/user-attachments/assets/e9a6e19e-64be-4be9-a45a-c54f73a7ec9c)
+
+![image](https://github.com/user-attachments/assets/5b985ca5-6786-40b4-b277-8d3568b648d1)
+
+![image](https://github.com/user-attachments/assets/69f6eeec-f1d9-4f26-af2f-d4d87980ef84)
+
+Output of the floorplanning phase will go as a input to placement phase. Now we will see, how the blocks can be placed in the given chip area, so that the routing will be easier.
+
+![image](https://github.com/user-attachments/assets/2f56b13a-742e-4e84-b0d8-f3138c1f7f0c)
+
+![image](https://github.com/user-attachments/assets/eeb9128c-b02c-4b92-a7d8-83a8e0651ebb)
+
+Here, the area is same but the width and height is different.
+
+![image](https://github.com/user-attachments/assets/2f79a4c3-fd5a-4676-8400-f7c5af0fa9b2)
+
+Now let us see how to place these a,b,c blocks in the chip layout, so that the area is minimum. The below diagram says that, even though the area of all the floorplan are same, sometimes some of the orientation is suitable for the particular design.
+
+![image](https://github.com/user-attachments/assets/f95d5f42-b06d-4ea6-850d-2aa83aa7805d)
+
