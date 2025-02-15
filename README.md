@@ -1252,3 +1252,59 @@ Now let us see how to place these a,b,c blocks in the chip layout, so that the a
 
 ![image](https://github.com/user-attachments/assets/f95d5f42-b06d-4ea6-850d-2aa83aa7805d)
 
+![image](https://github.com/user-attachments/assets/f6dfd054-8995-4b7c-b150-7341393658c1)
+
+![image](https://github.com/user-attachments/assets/71e6d936-8cd8-485c-ae36-6e0d1e28e20d)
+
+![image](https://github.com/user-attachments/assets/2d42fd77-9b43-43b2-84cd-6b4a3217732f)
+
+![image](https://github.com/user-attachments/assets/fceb2767-e679-44b7-ad91-9c76d75036b0)
+
+![image](https://github.com/user-attachments/assets/cd6315f1-f697-44a0-b4cb-0e3754ed6121)
+
+If we have equal priority to the area and wirelength, alpha is assigned to 0.5. If more priority is given to area, then alpha will be close to 1 and 0 if the priority is given to wirelength.
+
+![image](https://github.com/user-attachments/assets/f86887c9-ea49-46e4-8495-aa049f40b0ba)
+
+![image](https://github.com/user-attachments/assets/0e6ae2a6-2886-4c54-b366-b5fbd375c0eb)
+
+![image](https://github.com/user-attachments/assets/a839e68a-ddbe-452d-b5e8-37da23e0e287)
+
+![image](https://github.com/user-attachments/assets/430fc050-c9b4-4029-a10b-ee11441460f3)
+
+![image](https://github.com/user-attachments/assets/76555675-5fc5-45b2-82e5-cbcaaa424219)
+
+In horizontal cut, The right node of the tree corresponds to the top block and the left side of the tree corresponds to the bottom block. For vertical cut, the left side node is the left block and the right node is the right block.
+
+![image](https://github.com/user-attachments/assets/5d23d67a-9e5e-4622-9249-f7b225bc2621)
+
+![image](https://github.com/user-attachments/assets/4c51d608-f6e9-4bbc-b6fa-b699a038cfe8)
+
+![image](https://github.com/user-attachments/assets/4c35b73e-2d7b-452b-8d1f-b4f0d7feadf5)
+
+![image](https://github.com/user-attachments/assets/68ce38d3-2055-4b27-b679-5ceae14c33e4)
+
+In non-slicing floorplan, we will not cut the entire design area into either vertical or horizontal cuts.
+
+![image](https://github.com/user-attachments/assets/627ce02b-33a5-4cb1-94fc-2171b4324589)
+
+![image](https://github.com/user-attachments/assets/1ef92b05-0f8c-4ea2-95eb-67ae3641eb1d)
+
+Here, W stands for wheel.
+
+![image](https://github.com/user-attachments/assets/7042b910-735a-41be-be85-8717dfdacab3)
+
+![image](https://github.com/user-attachments/assets/36f2a05e-73ec-4e96-a43d-24c097b6a843)
+
+![image](https://github.com/user-attachments/assets/d073cdda-3b8f-4b73-af3b-9ef09ac5049e)
+
+![image](https://github.com/user-attachments/assets/fb48475b-7eee-4867-a5ed-b24712b27635)
+
+![image](https://github.com/user-attachments/assets/4f5bc026-e5bf-4f6d-a7d3-cd232a3a7275)
+
+![image](https://github.com/user-attachments/assets/0de7a5ca-8a9e-43be-af65-53b8418f64da)
+
+This sequence pair help to represent the floorplan in a compact manner, which can be given as input to the floorplanning algorithm.
+
+![image](https://github.com/user-attachments/assets/2c8038cc-b335-4029-a840-fc3cdce7cd17)
+
