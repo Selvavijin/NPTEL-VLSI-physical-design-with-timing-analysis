@@ -1308,3 +1308,33 @@ This sequence pair help to represent the floorplan in a compact manner, which ca
 
 ![image](https://github.com/user-attachments/assets/2c8038cc-b335-4029-a840-fc3cdce7cd17)
 
+Week 5 (lecture 25-Floorplanning Representations)
+
+![image](https://github.com/user-attachments/assets/e8207507-4c90-45ab-99b2-40d6d50aa157)
+
+![image](https://github.com/user-attachments/assets/f2a586d1-3b4d-4729-8f7d-eb1bb529c91a)
+
+![image](https://github.com/user-attachments/assets/c3dca92a-6938-46c2-b542-cc71545689c4)
+
+The second step is to add the source and sink(termination) nodes. If a node is present left to other node, then we add a directed edge.
+
+![image](https://github.com/user-attachments/assets/89048ed8-f0a4-4019-9030-5f3ff0e7d256)
+
+Then we can remove the redundant edges.
+
+![image](https://github.com/user-attachments/assets/45e25272-994e-4288-8bc4-8531b88d9d17)
+
+Then we move to the vertical constraint graph.
+
+![image](https://github.com/user-attachments/assets/0fec4df8-4a0e-4c8e-a197-1d69ed52d561)
+
+![image](https://github.com/user-attachments/assets/ae27701e-a66a-43c9-9168-918171cb0ac1)
+
+![image](https://github.com/user-attachments/assets/43a92408-9374-4ead-96ab-17e579225859)
+
+![image](https://github.com/user-attachments/assets/8d34cf75-95e4-4c9b-a70e-173fd43828ef)
+
+![image](https://github.com/user-attachments/assets/4e094b56-59fe-41e6-8647-b2cc8f21711f)
+
+
+
