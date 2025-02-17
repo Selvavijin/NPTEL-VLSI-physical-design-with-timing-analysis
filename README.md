@@ -1,4 +1,4 @@
-# NPTEL - VLSI Physical design with timing analysis
+![image](https://github.com/user-attachments/assets/5a276a39-9b24-4458-82f0-b1ed4aec1ad0)# NPTEL - VLSI Physical design with timing analysis
  
 Week 1 (lecture 1-Introduction to VLSI design)
 
@@ -1395,5 +1395,13 @@ The height of the block is determined by the t-span.
 Now we know the height and width of the global bounding box, x and y coordinates of all the blocks.
 
 ![image](https://github.com/user-attachments/assets/d6362405-f1cd-4ab1-b660-fa0656988548)
+
+Week 5 (lecture 26-Floorplanning Algorithms - 1)
+
+![image](https://github.com/user-attachments/assets/f5e53e1b-3d48-44ba-ae64-7d224a86f948)
+
+![image](https://github.com/user-attachments/assets/296469b4-3957-48b3-9a31-51e4898bd53d)
+
+
 
 
