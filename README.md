@@ -1440,3 +1440,32 @@ There are some hard IPs will be present like Memory blocks. For those blocks, th
 
 ![image](https://github.com/user-attachments/assets/89521152-9069-426b-bffc-170a5c0126fb)
 
+![image](https://github.com/user-attachments/assets/d6ca66d7-548c-4922-9fbe-882d5d878edb)
+
+![image](https://github.com/user-attachments/assets/0b168154-27a7-409a-95e1-f5263a7fc0f8)
+
+Then consider the block B.
+
+![image](https://github.com/user-attachments/assets/467dda64-93f2-4d89-aafc-c5f2613e5ab3)
+
+![image](https://github.com/user-attachments/assets/abf10df9-924e-4be3-9732-417e52edf26b)
+
+We found the shape functions of blocks A and B. Our aim is to find the minimum area of the floorplan. Block A has height of 3 and block B has height of 4, so the height of overall floorplan is 4+3=7.
+
+![image](https://github.com/user-attachments/assets/5ad9b0b5-5109-42c3-8de8-c74fceb06e99)
+
+![image](https://github.com/user-attachments/assets/2f644a49-7294-4976-b30b-7dad237eefab)
+
+So, in vertical composition, the best one is shown below.
+
+![image](https://github.com/user-attachments/assets/6c1e32cd-c797-49d5-8693-af29ffec1726)
+
+Now let us see the horizontal composition.
+
+![image](https://github.com/user-attachments/assets/a8a944f1-b21e-460a-9047-57166706388f)
+
+![image](https://github.com/user-attachments/assets/065dfd8f-84fb-4b86-bf4e-6c2e175d8109)
+
+![image](https://github.com/user-attachments/assets/9923c026-a7e0-494a-993c-e8aff1f63539)
+
+
