@@ -1336,5 +1336,64 @@ Then we move to the vertical constraint graph.
 
 ![image](https://github.com/user-attachments/assets/4e094b56-59fe-41e6-8647-b2cc8f21711f)
 
+![image](https://github.com/user-attachments/assets/eb987669-7c62-41af-a2b1-379f9f1d5346)
+
+S+ means looking from top to bottom and S- is looking from bottom to top and using the vertical constraint graph.
+
+![image](https://github.com/user-attachments/assets/ded582c6-24b8-4117-869d-8c4c9a7586e4)
+
+Then we are doing it using horizontal constraint graph. For that we are using the sequence form the previous slide and check for HCG conditions. If there is any change, we can change it. Eg: In S-, 'ba' is changed to 'ab'.
+
+![image](https://github.com/user-attachments/assets/f4cbabc8-ad52-4401-a6fd-ddb6ebcf8748)
+
+This sequence pair represents the floorplan. Which means, if we know this sequence pair, we can create the floorplan.
+
+![image](https://github.com/user-attachments/assets/b50ce83c-a9ea-45ef-9e9a-ec1256dd5567)
+
+Now let us see how to create a floorplan using sequence pair.
+
+![image](https://github.com/user-attachments/assets/e7a245f5-37a3-46a7-b57f-fb69bd2d4d87)
+
+LCS is used to find the x and y co-ordinates. To find the x co-ordinates, the input to the LCS is S+, S- and widths of each blocks. Similarly, To find the y co-ordinates, the input to the LCS is S+ reverse, S- and widths of each blocks. 
+
+![image](https://github.com/user-attachments/assets/cd5d5022-c99b-4072-b862-727cb252defc)
+
+Block order - Position of block in the S2(S-) sequence. Weights - Widths and heights of each of the block.
+
+![image](https://github.com/user-attachments/assets/28c15244-7376-4b45-a80f-bc42364c62a3)
+
+Let us understand this with an example.
+
+![image](https://github.com/user-attachments/assets/b3734319-8d8f-46a9-8028-d7e9238e7e6a)
+
+Initially all the lengths are '0'
+
+![image](https://github.com/user-attachments/assets/d25588a1-abf1-400c-9caa-f95e6060a04d)
+
+![image](https://github.com/user-attachments/assets/871dfc76-bc80-4560-acb9-08af547eeea2)
+
+![image](https://github.com/user-attachments/assets/e450fc75-9f8d-4ac1-926a-fc54cfae801b)
+
+The positions of the block gives the x-coordinate. The maximum width of the block will be given by the t-span, because we are working in the x-direction.
+
+![image](https://github.com/user-attachments/assets/b6d63469-244d-423f-9120-36592a9eb46b)
+
+Now let us see how to find the y-coordinates.
+
+![image](https://github.com/user-attachments/assets/5784b0ee-2e6c-4efb-bfd4-81fb64dd2d4f)
+
+Here, the weights will be heights.
+
+![image](https://github.com/user-attachments/assets/a9300a9b-3c06-49ae-b819-14b1610ebdae)
+
+![image](https://github.com/user-attachments/assets/aeebed9b-28ac-475e-9a19-8daed3d4449f)
+
+The height of the block is determined by the t-span.
+
+![image](https://github.com/user-attachments/assets/16fefec6-5c72-4f38-912e-1606f17db75a)
+
+Now we know the height and width of the global bounding box, x and y coordinates of all the blocks.
+
+![image](https://github.com/user-attachments/assets/d6362405-f1cd-4ab1-b660-fa0656988548)
 
 
