@@ -1402,6 +1402,41 @@ Week 5 (lecture 26-Floorplanning Algorithms - 1)
 
 ![image](https://github.com/user-attachments/assets/296469b4-3957-48b3-9a31-51e4898bd53d)
 
+![image](https://github.com/user-attachments/assets/3dcb2178-0456-4ed7-bdfb-0a652e86abb6)
 
+![image](https://github.com/user-attachments/assets/72536a15-15e3-4b35-9801-5ee0a991191b)
 
+Ideally there should not be any wastage of area in the floorplan but it is not always possible and we will see that. The equations says that there are multiple combinations of W and H are possible for the same area but it is not possible to create any shape of the block.
+
+![image](https://github.com/user-attachments/assets/57ef2eb4-8bb2-4160-8f6c-430f6e37749f)
+
+The graph says that, either the W changes or the H changes, but the area of the block remains same. Third quadrant is not considered because, the width and the height cannot be negative.
+
+![image](https://github.com/user-attachments/assets/fd9e750d-98a3-48e2-a179-48083b0603b5)
+
+All the points in the curve line satisfies the area constraint. So, everything above the curve line is a legal area.
+
+![image](https://github.com/user-attachments/assets/4c3393ee-ccd6-4a86-b292-15770d0874c5)
+
+As shown in the diagram below, the area below the lower bound line is not allowed.
+
+![image](https://github.com/user-attachments/assets/08734dd1-ae19-4f8f-a90c-35565a18e43a)
+
+![image](https://github.com/user-attachments/assets/8df4ce94-765d-4fff-949e-2f586f60b316)
+
+Due to some technology dependent design rules we can create shape of the block in some particular points and not in the continuous manner. 
+
+![image](https://github.com/user-attachments/assets/d3000e4a-194d-466e-99ce-7492c05d6697)
+
+There are some hard IPs will be present like Memory blocks. For those blocks, there will be two orientations.
+
+![image](https://github.com/user-attachments/assets/05fa2c41-8c2a-4a1a-963f-4e3d2d8aa457)
+
+![image](https://github.com/user-attachments/assets/1c5de0c6-d4cb-4579-9c73-3293772d08b2)
+
+![image](https://github.com/user-attachments/assets/66eafa5b-ed6c-436d-8e4d-dde0779f203a)
+
+![image](https://github.com/user-attachments/assets/89d99865-140c-441a-9d21-135d88013d89)
+
+![image](https://github.com/user-attachments/assets/89521152-9069-426b-bffc-170a5c0126fb)
 
