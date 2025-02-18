@@ -1464,8 +1464,81 @@ Now let us see the horizontal composition.
 
 ![image](https://github.com/user-attachments/assets/a8a944f1-b21e-460a-9047-57166706388f)
 
-![image](https://github.com/user-attachments/assets/065dfd8f-84fb-4b86-bf4e-6c2e175d8109)
+![image](https://github.com/user-attachments/assets/55840100-8c27-45a8-b6ea-d50d9e2e36c2)
 
 ![image](https://github.com/user-attachments/assets/9923c026-a7e0-494a-993c-e8aff1f63539)
+
+Week 5 (lecture 27-Floorplanning Algorithms – 2)
+
+![image](https://github.com/user-attachments/assets/dfa8694c-01f4-443c-9029-3afecf34c01b)
+
+![image](https://github.com/user-attachments/assets/b8f2b146-ea8d-4c99-8edb-822989d3a1d7)
+
+![image](https://github.com/user-attachments/assets/29ddd52a-729e-41c8-a483-c43e916876bd)
+
+When we place block C, then N1 and N2 are called terminating nets.
+
+![image](https://github.com/user-attachments/assets/d2f0eacf-73ac-4167-a81a-7b1edacf4aab)
+
+Partially constructed means, previous blocks.
+
+![image](https://github.com/user-attachments/assets/1e7ebbd7-0448-46ef-8fb6-7fed1be2d105)
+
+![image](https://github.com/user-attachments/assets/8d19cce5-9cac-4e90-b4f4-b6bfaa20b3b8)
+
+We place the blocks such that the interconnect distance is minimum. It is possible using the gain formula.
+
+![image](https://github.com/user-attachments/assets/c3337c5c-0054-4d76-9ead-8e8e62dd7370)
+
+![image](https://github.com/user-attachments/assets/54efaf1c-e208-4fd8-9efc-00541bebfe54)
+
+The below shown is our initial circuit. Now we have to find the placement of the blocks such the distance of the interconnects is minimum.
+
+![image](https://github.com/user-attachments/assets/fb750cb8-69e6-4512-ae02-bf60972eb546)
+
+![image](https://github.com/user-attachments/assets/c830b67a-b7ca-495e-86dd-946928f85e34)
+
+We have to choose the block which gives the highest gain. In the below diagram we are checking like which block can be placed after the 'a' block.
+
+![image](https://github.com/user-attachments/assets/fdc364a9-8932-4985-8a49-1b26f02d6cfd)
+
+Here the gain of two blocks are equal and so we are seeing the continuing nets and choosing 'd'. Because if we choose 'c', the length of the continuing nets will the large.
+
+![image](https://github.com/user-attachments/assets/9a209cda-05c2-43ef-9e88-2e6368788308)
+
+Here we can choose any blocks. Because all are equal.
+
+![image](https://github.com/user-attachments/assets/27c43727-68b0-4b4f-8910-9d864137401c)
+
+![image](https://github.com/user-attachments/assets/399cdcaf-8f88-44a3-a7dc-eb1cc728bef5)
+
+Lets move to the second algorithm 'Cluster growth'.
+
+![image](https://github.com/user-attachments/assets/0a827f94-322e-440f-915e-ee472fc2686c)
+
+The further blocks are placed in such a way that the final size of floorplan is minimum.
+
+![image](https://github.com/user-attachments/assets/3f16aa4c-cc1e-4d09-96a9-307528269329)
+
+![image](https://github.com/user-attachments/assets/cf986981-db5c-45a9-afdc-a2d400cae1d5)
+
+![image](https://github.com/user-attachments/assets/29e94ed3-3e45-46f4-b624-336f3b767e53)
+
+Cost may be area,wirelength or anything which is our target. After we run the linear ordering algorithm, we take one block at a time and order it using cluster growth algorithm.
+
+![image](https://github.com/user-attachments/assets/2ab9c9a4-1d66-42f0-a46b-3459377ede1b)
+
+The inputs given are blocks, linear ordering(from the previous example) and aspect ratio(different orientations with same area.)
+
+![image](https://github.com/user-attachments/assets/982394ff-91a7-45f4-9aec-9859450abb12)
+
+![image](https://github.com/user-attachments/assets/17b57d09-b03d-4bab-9ec2-7d59e487a150)
+
+![image](https://github.com/user-attachments/assets/46cfe7da-f1e1-40da-bc16-375c48518dfc)
+
+We placed 'a' and 'b' in such a way that the area is minimum and there is no area wastage. If we choose other dimensions, the are will be wasted.
+
+![image](https://github.com/user-attachments/assets/05410c46-f6e7-468a-bb20-39e4b4f31588)
+
 
 
