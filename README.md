@@ -1540,5 +1540,48 @@ We placed 'a' and 'b' in such a way that the area is minimum and there is no are
 
 ![image](https://github.com/user-attachments/assets/05410c46-f6e7-468a-bb20-39e4b4f31588)
 
+![image](https://github.com/user-attachments/assets/b72efce9-d5a1-4ddd-bccd-cc8bcdb83095)
 
+![image](https://github.com/user-attachments/assets/4a77f0d0-c130-4cd9-907c-29bc35f0b11b)
 
+![image](https://github.com/user-attachments/assets/9267c8e7-c834-44f3-841e-fcbe44e86daf)
+
+Now lets move to the next algorithm 'simulated annealing'. In Greedy algorithms, we always goto local optimum value or best solution at each step.
+
+![image](https://github.com/user-attachments/assets/1e0c9c7a-d799-4ee9-9fe1-534ca868e10b)
+
+![image](https://github.com/user-attachments/assets/fab1307a-085c-482c-bbea-71f25e535e29)
+
+![image](https://github.com/user-attachments/assets/13d5a90a-315d-424f-a8bf-d998fd72be32)
+
+![image](https://github.com/user-attachments/assets/1b62b3b9-6f3e-401b-8c46-ef3b8c72f509)
+
+In minimum energy configuration, we get the better solution.
+
+![image](https://github.com/user-attachments/assets/02c238a3-2ec7-48bd-9453-83f5737222aa)
+
+![image](https://github.com/user-attachments/assets/1da26577-7454-4082-9908-3197aec373e4)
+
+![image](https://github.com/user-attachments/assets/c47aeb42-b5e4-4467-a29f-62831141366d)
+
+If the below condition is satisfied, then we accept the solution.
+
+![image](https://github.com/user-attachments/assets/1997e16b-1ec1-4807-9242-b9a2b84586af)
+
+![image](https://github.com/user-attachments/assets/165b29c1-69ba-401d-93c4-4fbfefb5b73d)
+
+![image](https://github.com/user-attachments/assets/eb8a58b5-4b05-4ca6-b8f6-f91e247f09a6)
+
+![image](https://github.com/user-attachments/assets/99d1d6ed-c6a8-47ca-b4d5-09f269b7671f)
+
+![image](https://github.com/user-attachments/assets/a7fa6e21-924f-49bc-95f3-62eb8686b4f3)
+
+![image](https://github.com/user-attachments/assets/fa13b82f-c5ed-4c5c-be0f-96d882febd3c)
+
+![image](https://github.com/user-attachments/assets/571c624b-396a-4179-9035-d5abfa991982)
+
+![image](https://github.com/user-attachments/assets/4ba818b0-cced-4490-9048-616785ca83b1)
+
+The below shown is the output and it says that, if we increase the time, we get the better solution. And the second thing is that we have 3 different configurations and so we have 3 different solutions. Which means, if we run it for longer time we get better solution and for different configurations we get different solutions.
+
+![image](https://github.com/user-attachments/assets/bf5242c3-f85c-4c2a-bec1-535b40bbc555)
