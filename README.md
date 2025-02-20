@@ -1585,3 +1585,118 @@ If the below condition is satisfied, then we accept the solution.
 The below shown is the output and it says that, if we increase the time, we get the better solution. And the second thing is that we have 3 different configurations and so we have 3 different solutions. Which means, if we run it for longer time we get better solution and for different configurations we get different solutions.
 
 ![image](https://github.com/user-attachments/assets/bf5242c3-f85c-4c2a-bec1-535b40bbc555)
+
+Week 5 (lecture 28-Pin Assignment and Power - Ground Routing)
+
+Planar routing is for full custom design style and Mesh routing is for semi custom design style.
+
+![image](https://github.com/user-attachments/assets/9103adde-cd11-42a8-b576-465edab79d12)
+
+![image](https://github.com/user-attachments/assets/9375f274-7371-418b-b866-a675eafaf8c8)
+
+![image](https://github.com/user-attachments/assets/8709fe71-c57a-4463-93f9-09241df6b183)
+
+![image](https://github.com/user-attachments/assets/84d28df1-e6a9-443b-a503-3e733582e71b)
+
+![image](https://github.com/user-attachments/assets/c09f0274-4cd4-4e64-8bb9-1c760bf2230f)
+
+Functionally equivalent does not mean electrically equivalent.
+
+![image](https://github.com/user-attachments/assets/7f333b95-a562-4e3f-b6c0-4cf88d5db4df)
+
+![image](https://github.com/user-attachments/assets/5703629c-298c-440e-8f12-36b3514dd0e2)
+
+![image](https://github.com/user-attachments/assets/468e336f-3a2d-47b1-9ac0-2e73671a2803)
+
+![image](https://github.com/user-attachments/assets/4699d767-8175-43c8-b93b-22c61e32b75b)
+
+![image](https://github.com/user-attachments/assets/aff7d71a-9a61-4ff3-bbf8-369aa87f0c2c)
+
+![image](https://github.com/user-attachments/assets/f9fed4de-8cd9-4a3c-b001-81f78dd8f98e)
+
+![image](https://github.com/user-attachments/assets/2255e0e5-337e-4185-b6ca-1b99606e79a6)
+
+![image](https://github.com/user-attachments/assets/cd9a0ce9-8e57-4288-bb5d-2d658c1549f6)
+
+The small red circles that are present on the circles are important for us.
+
+![image](https://github.com/user-attachments/assets/6ba2be15-c739-4c86-9869-689fb1427894)
+
+![image](https://github.com/user-attachments/assets/92a859a3-4387-4d8f-bf8d-fd3f72ef40c1)
+
+![image](https://github.com/user-attachments/assets/3896ac2e-3109-47d4-8c15-9c2e826a38ae)
+
+Initial mapping is the first solution but it is not the best solution.
+
+![image](https://github.com/user-attachments/assets/4053c040-3eca-4765-b0a6-8e6ac24feff4)
+
+![image](https://github.com/user-attachments/assets/628e5eec-5729-402c-8bfc-c635e7ce12c5)
+
+![image](https://github.com/user-attachments/assets/a73b0aa4-00b5-42dc-80ac-379267a83446)
+
+![image](https://github.com/user-attachments/assets/abafa593-97f3-45cc-942f-f01a985cd107)
+
+![image](https://github.com/user-attachments/assets/25fda4ef-cce9-4841-b8f1-3d4c51e2e375)
+
+Topological pin assignment:
+
+![image](https://github.com/user-attachments/assets/8989f229-053f-4b15-92f8-c7a5c688a622)
+
+![image](https://github.com/user-attachments/assets/ff55cec8-4187-40e4-8c91-3aa108682315)
+
+Draw a line to find the farthest point from block M to external block.
+
+![image](https://github.com/user-attachments/assets/929106d9-cb6e-4f8b-9829-d82609bd6402)
+
+Then we draw a perpendicular line to the previous line.
+
+![image](https://github.com/user-attachments/assets/db15396d-1853-4951-9e97-ccdb5ae5afa1)
+
+Now we can connect them using concentric circles.
+
+![image](https://github.com/user-attachments/assets/4fe7f77c-441e-4a09-85f0-df5f85e5ccd4)
+
+![image](https://github.com/user-attachments/assets/774aff93-eb7d-4c0a-89ba-a17847aa9cba)
+
+From M, we are passing two lines through the midpoint of the block a and b.
+
+![image](https://github.com/user-attachments/assets/168a4587-b811-4e73-92a9-db6d8cc2580c)
+
+![image](https://github.com/user-attachments/assets/84f62ad3-02eb-415e-91ed-d6b780f23a3a)
+
+![image](https://github.com/user-attachments/assets/3f289f39-6b55-4e80-a52b-70e89adee0d9)
+
+![image](https://github.com/user-attachments/assets/58d180a4-24e1-4243-ae07-956d62e190d1)
+
+![image](https://github.com/user-attachments/assets/3fb0ad88-287f-44bf-89dd-5a513a6ceee5)
+
+The chip has two rings, Vdd and GND, also the individual blocks has these rings.
+
+![image](https://github.com/user-attachments/assets/2f9fa015-7560-4d55-a3f4-97df9e65ef4a)
+
+![image](https://github.com/user-attachments/assets/70b40fa9-c0e2-4c28-95f3-8337e0431b75)
+
+![image](https://github.com/user-attachments/assets/8fea5c7f-bf84-4c8c-abe3-2441987795fe)
+
+![image](https://github.com/user-attachments/assets/848c7a3c-67be-4f7f-83c1-5d3e7528f345)
+
+![image](https://github.com/user-attachments/assets/bb9f69d0-7783-47d3-adfd-708f5e910658)
+
+![image](https://github.com/user-attachments/assets/9bd2b715-3cc9-4248-b7d1-4fbda7443028)
+
+![image](https://github.com/user-attachments/assets/143c9f81-dbb9-455b-9917-4871658cef4b)
+
+Mesh network is low resistance network compared to the ring network.
+
+![image](https://github.com/user-attachments/assets/8f4fd6a7-2fae-4d46-bbb5-6b8db1267b29)
+
+![image](https://github.com/user-attachments/assets/092f1dd6-c27c-432e-bbcb-2387a5653cc6)
+
+![image](https://github.com/user-attachments/assets/dbeac31d-17ed-4428-bd9c-bb47977a78b1)
+
+![image](https://github.com/user-attachments/assets/87857693-3d7a-442e-8fcd-45efd5868f8e)
+
+![image](https://github.com/user-attachments/assets/42de3ede-bd16-4a7e-ba6b-9cbe4a790c18)
+
+![image](https://github.com/user-attachments/assets/ffdba330-58b2-4fa9-98b5-c4170c451776)
+
