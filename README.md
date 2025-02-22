@@ -1700,3 +1700,35 @@ Mesh network is low resistance network compared to the ring network.
 
 ![image](https://github.com/user-attachments/assets/ffdba330-58b2-4fa9-98b5-c4170c451776)
 
+Week 6 (lecture 29-Introduction to Placement)
+
+![image](https://github.com/user-attachments/assets/181a2fc8-1c4c-4d4b-8b36-66bcf06669d3)
+
+![image](https://github.com/user-attachments/assets/ea001e43-805c-4ea4-b96c-12081ed4cfaa)
+
+![image](https://github.com/user-attachments/assets/2c70bbdf-a04a-4116-b6b9-d3dd795df3ce)
+
+![image](https://github.com/user-attachments/assets/f2080841-84fe-4288-afc6-d2d40921ab57)
+
+![image](https://github.com/user-attachments/assets/89b79f83-63cf-4354-a5a4-6ec65bfe7b88)
+
+![image](https://github.com/user-attachments/assets/34446848-6598-40a5-8e1b-2e176672fe1a)
+
+![image](https://github.com/user-attachments/assets/8898a19e-4af3-44bc-a072-5106d1310e1d)
+
+![image](https://github.com/user-attachments/assets/06f1b9ac-f19c-4379-8a21-09b861259bf5)
+
+![image](https://github.com/user-attachments/assets/a242e3a9-7b06-4eb7-b1d6-7223e0318433)
+
+![image](https://github.com/user-attachments/assets/f192b35a-0aea-4e45-8037-8b5fd41acb2b)
+
+![image](https://github.com/user-attachments/assets/da8d76b0-9055-4ec2-a21c-025af5286597)
+
+![image](https://github.com/user-attachments/assets/cbe7da1f-73ff-405a-b170-f413287b7ff8)
+
+These are the blocks given as input to the placement problem. All the 1s should be connected, and other respective numbers should also connected such that the overall area and overall wirelength is reduced.
+
+![image](https://github.com/user-attachments/assets/5d542f6c-42ad-4f21-bc85-9d565d6efa4d)
+
+![image](https://github.com/user-attachments/assets/ed2cd888-912b-4555-a60f-8ccf180de754)
+
