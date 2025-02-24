@@ -1740,5 +1740,53 @@ These are the blocks given as input to the placement problem. All the 1s should 
 
 ![image](https://github.com/user-attachments/assets/47abd213-9906-411c-ba83-4b016d324a79)
 
+This is similar to the packaging of books in a box. The difference is, When packaging books, overlap can be done. But, here the overlapping is not allowed.
+
 ![image](https://github.com/user-attachments/assets/70d19320-d16b-4555-aa18-b7e2f0c0ba58)
+
+The height of the cells can be 7 or 9 or 10 track depending on the company.
+
+![image](https://github.com/user-attachments/assets/34794279-9f41-4478-b760-e4b33b6803ff)
+
+![image](https://github.com/user-attachments/assets/685196b2-31dd-4611-bb01-412d119bae81)
+
+![image](https://github.com/user-attachments/assets/d18069b5-80d7-4b42-8803-2f16d8a37e8f)
+
+![image](https://github.com/user-attachments/assets/b43da3d9-d963-4687-bde9-f706f8cc2abf)
+
+![image](https://github.com/user-attachments/assets/e16ec53f-a46d-4ee0-9b56-7590ad4ca9e3)
+
+![image](https://github.com/user-attachments/assets/d88dae3c-9488-40f6-91c1-b9df15498d94)
+
+![image](https://github.com/user-attachments/assets/fff4b1b5-fd50-4046-ba83-6519fe29429a)
+
+![image](https://github.com/user-attachments/assets/6ca65e3e-e42c-4fb5-9e98-164a0e7b6cb4)
+
+![image](https://github.com/user-attachments/assets/32fcd291-6880-4440-b982-9bbca3806802)
+
+![image](https://github.com/user-attachments/assets/527eca51-1d62-400e-a845-e416e0a6749a)
+
+Week 6 (lecture 30-Wirelength estimation techniques)
+
+![image](https://github.com/user-attachments/assets/00b61392-38dc-4c92-a8f9-213769763715)
+
+We should not calculate the equilidian distance here which is given below of the picture. Because, it calculates the diagonal distance.
+
+![image](https://github.com/user-attachments/assets/2e4fa8a9-c5ea-4a70-b4de-0059acdb127c)
+
+![image](https://github.com/user-attachments/assets/69423e47-e91d-415f-8b25-15c5feeb47da)
+
+![image](https://github.com/user-attachments/assets/74d96693-9fd2-4144-85c7-e816c3ee3df3)
+
+![image](https://github.com/user-attachments/assets/264a0a33-8727-4c9d-b5d1-b4e73d0af32b)
+
+![image](https://github.com/user-attachments/assets/b4df0ada-4984-4307-96c7-a5f6483c74dc)
+
+![image](https://github.com/user-attachments/assets/08f708a9-0acd-462e-92fc-e98b70f02bf2)
+
+![image](https://github.com/user-attachments/assets/4118fda1-a366-44a6-a48e-48d660827343)
+
+![image](https://github.com/user-attachments/assets/326aef2c-25f4-45d7-af00-f062069d1eb7)
+
+![image](https://github.com/user-attachments/assets/6b168960-dbd5-440b-a687-b11c2a92a5f4)
 
