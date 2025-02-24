@@ -1732,3 +1732,13 @@ These are the blocks given as input to the placement problem. All the 1s should 
 
 ![image](https://github.com/user-attachments/assets/ed2cd888-912b-4555-a60f-8ccf180de754)
 
+![image](https://github.com/user-attachments/assets/5c777e6a-a0a3-408d-97ca-2aa3261935d6)
+
+![image](https://github.com/user-attachments/assets/78660710-1281-4c79-a95c-285206108a3b)
+
+![image](https://github.com/user-attachments/assets/cf6071c6-f6a0-43b7-9397-f0fcc3a6f24d)
+
+![image](https://github.com/user-attachments/assets/47abd213-9906-411c-ba83-4b016d324a79)
+
+![image](https://github.com/user-attachments/assets/70d19320-d16b-4555-aa18-b7e2f0c0ba58)
+
