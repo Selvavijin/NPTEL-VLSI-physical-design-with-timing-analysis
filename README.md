@@ -1790,3 +1790,65 @@ We should not calculate the equilidian distance here which is given below of the
 
 ![image](https://github.com/user-attachments/assets/6b168960-dbd5-440b-a687-b11c2a92a5f4)
 
+![image](https://github.com/user-attachments/assets/e622398d-a3ee-4d81-91d8-2f44a3a98dfc)
+
+![image](https://github.com/user-attachments/assets/40715821-a596-44da-a488-3fb927cf758f)
+
+Manhatten geometry means, either horizontal or vertical lines. It should have max of p-1 edges. Because, even if one more edge is added, it lose the property of tree and behaves as a cycle.
+
+![image](https://github.com/user-attachments/assets/2e249997-8627-4725-a563-129051c8cca5)
+
+![image](https://github.com/user-attachments/assets/374234d7-08e5-4487-84dc-1cc0d32f98cc)
+
+![image](https://github.com/user-attachments/assets/f19c80af-0b23-4671-9a02-b4123f066565)
+
+![image](https://github.com/user-attachments/assets/50f716cc-6558-4953-a70a-3a5c54f2f680)
+
+![image](https://github.com/user-attachments/assets/095f788c-b62c-44fb-8cef-d5bae5d79d86)
+
+![image](https://github.com/user-attachments/assets/0d09e679-a03d-453d-9038-e2a7d5556ff7)
+
+![image](https://github.com/user-attachments/assets/ed9952b2-e535-494c-8d6a-e44ad3a91af2)
+
+![image](https://github.com/user-attachments/assets/f6a8e499-2392-467f-a24a-bd7615fd07ee)
+
+If we want more accuracy, we can go for RSMT. Else we can go for HPWL.
+
+![image](https://github.com/user-attachments/assets/0d9d34d6-226c-4fda-9fa4-048893c7f091)
+
+Here the error is close to 10%
+
+![image](https://github.com/user-attachments/assets/fb77ceb1-04bc-4f74-a522-937ad9aaa83a)
+
+![image](https://github.com/user-attachments/assets/95b6293b-cc3a-4723-b7a0-79279ce2298d)
+
+![image](https://github.com/user-attachments/assets/1b7acf7e-4204-49f8-9fb1-3175f5a85011)
+
+![image](https://github.com/user-attachments/assets/70fae6c3-0f78-4839-9678-ea77a4e44982)
+
+![image](https://github.com/user-attachments/assets/0431d4ed-875a-4e7a-8850-b1ddbfb6b683)
+
+![image](https://github.com/user-attachments/assets/90ffcc3e-4ed2-4ba3-bc6c-e0992ed27c29)
+
+![image](https://github.com/user-attachments/assets/d4b2654d-a021-408a-8536-043fd629fb65)
+
+![image](https://github.com/user-attachments/assets/fc8b4ace-7092-4cf5-8d56-6d9e6db3c7ce)
+
+![image](https://github.com/user-attachments/assets/78e982d5-25d3-43bf-8939-44b3c80f41e8)
+
+![image](https://github.com/user-attachments/assets/57a327a7-d1ce-4c95-8378-60dced01ee61)
+
+![image](https://github.com/user-attachments/assets/16fbe514-c56d-4802-92bf-a7cb053fad11)
+
+![image](https://github.com/user-attachments/assets/f4cea026-d2d5-4b67-a98f-a17acc6428a1)
+
+![image](https://github.com/user-attachments/assets/9ddd488c-3a90-4bbe-a743-c587873f6872)
+
+![image](https://github.com/user-attachments/assets/b80355ce-72d2-4ba9-8abf-929dccbcd00c)
+
+Now the block b is moved vertically up. So, the h1 is cutting only one edge.
+
+![image](https://github.com/user-attachments/assets/10897e97-df84-46d2-9356-4f1cade08342)
+
+
+
