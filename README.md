@@ -1851,4 +1851,37 @@ Now the block b is moved vertically up. So, the h1 is cutting only one edge.
 ![image](https://github.com/user-attachments/assets/10897e97-df84-46d2-9356-4f1cade08342)
 
 
+Week 6 (lecture 31-Min-cut placement)
+
+![image](https://github.com/user-attachments/assets/424d59b7-92d7-4c1b-a3a4-c556fc72e6f0)
+
+![image](https://github.com/user-attachments/assets/a1b84f65-42dc-4f92-9ce7-d1d45a589493)
+
+![image](https://github.com/user-attachments/assets/25a5b4f0-815f-4aae-8922-bdfbd8de258e)
+
+We try to minimize this value, so that there is no routing congestion.
+
+![image](https://github.com/user-attachments/assets/ab36f279-728b-4a54-b2ed-8cc28827049b)
+
+![image](https://github.com/user-attachments/assets/0f3e42d2-3854-40fe-b83e-ee0d5c9f34e0)
+
+![image](https://github.com/user-attachments/assets/0d7b5d54-a8da-4bf7-89a4-066d3f050eb9)
+
+![image](https://github.com/user-attachments/assets/99b0e815-9019-49e7-bb39-5ef618006546)
+
+![image](https://github.com/user-attachments/assets/45550d58-0881-4fa0-8bea-121c86204889)
+
+![image](https://github.com/user-attachments/assets/74717e77-10c6-4bf2-a1de-be6ac19dfd61)
+
+![image](https://github.com/user-attachments/assets/f7abf078-dbdd-4a16-8544-12a0b60fd4d1)
+
+![image](https://github.com/user-attachments/assets/600cf18e-4f5d-441d-bdea-e5d9f9091baf)
+
+![image](https://github.com/user-attachments/assets/50a19623-feb1-4d17-a9b2-01a94ad9a8e8)
+
+![image](https://github.com/user-attachments/assets/615b2919-c19c-4996-8092-7bf95feddad4)
+
+![image](https://github.com/user-attachments/assets/a31e81ee-a4f7-421c-ad1b-b0fbdd12196c)
+
+
 
