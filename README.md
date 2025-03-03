@@ -1883,5 +1883,21 @@ We try to minimize this value, so that there is no routing congestion.
 
 ![image](https://github.com/user-attachments/assets/a31e81ee-a4f7-421c-ad1b-b0fbdd12196c)
 
+![image](https://github.com/user-attachments/assets/ba474ae3-c077-45b4-a598-7de8ec7be093)
+
+![image](https://github.com/user-attachments/assets/d8b93bac-a6ab-4abf-8cc6-2d191932b268)
+
+![image](https://github.com/user-attachments/assets/123b228d-ab5a-4064-bd3a-8843a0c3e3c1)
+
+![image](https://github.com/user-attachments/assets/a9d27d4b-a58b-4afb-9706-b01590bd0eba)
+
+![image](https://github.com/user-attachments/assets/a9675577-f683-46c7-b7ee-93cc66672421)
+
+![image](https://github.com/user-attachments/assets/e51ebf02-776d-4efe-98d6-746f7c3b247c)
+
+![image](https://github.com/user-attachments/assets/f9fdfbd8-26a5-439b-a61d-d8976114d405)
+
+![image](https://github.com/user-attachments/assets/114061b5-7d86-4fc6-89b8-528362690f53)
+
 
 
