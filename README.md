@@ -1899,5 +1899,47 @@ We try to minimize this value, so that there is no routing congestion.
 
 ![image](https://github.com/user-attachments/assets/114061b5-7d86-4fc6-89b8-528362690f53)
 
+![image](https://github.com/user-attachments/assets/5f0adc74-e001-49d5-be2f-ebe6d524aa79)
+
+![image](https://github.com/user-attachments/assets/801e6490-6415-475b-bc0b-662b7ae97364)
+
+![image](https://github.com/user-attachments/assets/11a1c9e7-a892-4c6c-92c3-7b9bc795dee5)
+
+![image](https://github.com/user-attachments/assets/fb3f68e3-4e08-4dbb-b733-a7242fecda54)
+
+![image](https://github.com/user-attachments/assets/1bc1476a-7b7a-4438-894f-d424c5750ecb)
+
+![image](https://github.com/user-attachments/assets/c2ffc7a2-7366-4573-afc4-2e8531d25965)
+
+![image](https://github.com/user-attachments/assets/4219a536-b144-4b52-a3cb-957f728bb64c)
+
+![image](https://github.com/user-attachments/assets/9e12bf8a-c71e-4c77-978a-1e6a1a466525)
+
+Nand and Nor has the value 2, which is the max value.
+
+![image](https://github.com/user-attachments/assets/b993b0be-331b-4875-89ac-5b408457d98d)
+
+![image](https://github.com/user-attachments/assets/9bbf5947-a504-4c33-ab6c-4d536256d845)
+
+![image](https://github.com/user-attachments/assets/c2dabd20-8de8-4c91-975a-63dea60d91a7)
+
+![image](https://github.com/user-attachments/assets/8d38f97e-088f-4f0e-8a98-f4e75946efb5)
+
+![image](https://github.com/user-attachments/assets/1882617f-2f25-4d01-bed4-2bdfdad6e312)
+
+![image](https://github.com/user-attachments/assets/4b16f3bd-9332-405c-8b72-26fbd7b57f86)
+
+It has the highest gain
+
+![image](https://github.com/user-attachments/assets/317e6baa-36f5-4083-920a-083a5f1b2e06)
+
+![image](https://github.com/user-attachments/assets/189ca040-ea2a-4633-b23f-83418200aa30)
+
+![image](https://github.com/user-attachments/assets/4824930b-90f8-4e3f-97f2-4d11b23dd43b)
+
+This process is repeated. And the final placement is shown below.
+
+![image](https://github.com/user-attachments/assets/538390d8-ff09-4ff8-b980-2bdb8a924cc1)
+
 
 
