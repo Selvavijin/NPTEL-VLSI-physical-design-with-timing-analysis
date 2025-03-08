@@ -2044,4 +2044,73 @@ the 3*3 layout is shown below. And in1,2,3 and out is fixed. We have other 5 loc
 
 ![image](https://github.com/user-attachments/assets/05c02e65-017b-4fcb-a0fb-cfe5b4f6a1cd)
 
+![image](https://github.com/user-attachments/assets/837ba25b-f93c-471f-bd8c-3979e5d908c2)
+
+![image](https://github.com/user-attachments/assets/ae7c8fe5-66a1-4b74-8723-ac0cacdce637)
+
+Place the 'p' in q's position. So, the q is shifted to other position. The position where q needs to be shifted is occupied by 'r', so shift the r to other location and place q in that location. This is called 'chain move'.
+
+![image](https://github.com/user-attachments/assets/de18c8ac-fecc-4000-8b54-acb5612cca68)
+
+![image](https://github.com/user-attachments/assets/04792f5b-a65b-438c-9663-507b27624955)
+
+![image](https://github.com/user-attachments/assets/9113efb2-b9aa-4459-b15b-3882437760ee)
+
+Here, we are finding the x co-ordinate. Because, only this information is given to us.
+
+![image](https://github.com/user-attachments/assets/38199827-b6f5-4158-8d0a-01adac5d686a)
+
+The position of b3 is (0,0). Already b1 is present in that position. So, we are finding L(p) before move and after move. Before move is shown below.
+
+![image](https://github.com/user-attachments/assets/cf3a2a2b-53e7-4249-8e28-50a05e8d1f14)
+
+After move is shown below.
+
+![image](https://github.com/user-attachments/assets/b04411ad-2879-46bd-8971-818cae675052)
+
+ZFT position of b2 is (2,0). Now L(p)=3, so the wirelength is reduced by 2. So we are swapping b2 and b3.
+
+![image](https://github.com/user-attachments/assets/22be0607-64c2-49b4-919d-3f72e1758548)
+
+![image](https://github.com/user-attachments/assets/af76094c-1b71-4239-a03b-d379f9bcc74a)
+
+![image](https://github.com/user-attachments/assets/afb165cd-4cbe-4690-a497-9ef75a632ef7)
+
+![image](https://github.com/user-attachments/assets/0f0df8d0-d666-4bda-97e9-e233dcb8d0ac)
+
+![image](https://github.com/user-attachments/assets/b1012bf4-ce4b-4275-bc7e-3ec6cc60c763)
+
+When the temperature is high, the probability of accepting the solution is higher. When the temperature is low, the probability of accepting the solution is lower.
+
+![image](https://github.com/user-attachments/assets/593f9625-f54e-4723-abc0-99554c3e013e)
+
+![image](https://github.com/user-attachments/assets/32e17242-4f5a-4602-81c1-07facfb62e67)
+
+![image](https://github.com/user-attachments/assets/fbede06d-9c71-4b9a-a5aa-d825f8fe2971)
+
+![image](https://github.com/user-attachments/assets/9c9df176-f3e8-4bf1-8d50-f5253a0517ff)
+
+![image](https://github.com/user-attachments/assets/68dabe86-e4bf-4a20-a16c-dba9a6a1ea3a)
+
+![image](https://github.com/user-attachments/assets/56b3316a-960f-4f39-abed-971fc9f9b759)
+
+![image](https://github.com/user-attachments/assets/abe2b179-02cb-483c-a8e0-e1779e14cd5c)
+
+![image](https://github.com/user-attachments/assets/124c5e6c-e27a-420e-86b3-15b7b2f684b5)
+
+![image](https://github.com/user-attachments/assets/10d48bc6-3926-451e-84e6-c99811dc81b5)
+
+![image](https://github.com/user-attachments/assets/4c06c659-f6fd-4896-b6a4-4652194bd841)
+
+![image](https://github.com/user-attachments/assets/aaa485e2-3bba-49a7-9fe4-b8a2eec16995)
+
+![image](https://github.com/user-attachments/assets/99c09c3a-d29b-4c92-b7fc-474b6487cd26)
+
+![image](https://github.com/user-attachments/assets/d9594a19-a383-44c4-9fab-62f58a123a77)
+
+![image](https://github.com/user-attachments/assets/487887cd-461f-4370-adf6-e8e18c0b0b5d)
+
+![image](https://github.com/user-attachments/assets/a10b22f3-1767-4ca1-a755-d1b0b4d3e5b4)
+
+
 
