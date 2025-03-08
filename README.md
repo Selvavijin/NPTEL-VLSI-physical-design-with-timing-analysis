@@ -2006,5 +2006,42 @@ Convex means, local minimum becomes global minimum.
 
 ![image](https://github.com/user-attachments/assets/242cdb20-6222-4ebd-9567-752a9b9ca1f4)
 
+Week 6 (lecture 33-Placement algorithms and legalization)
+
+![image](https://github.com/user-attachments/assets/72a9f49b-6bef-4d8b-b039-902ec63e4bdd)
+
+![image](https://github.com/user-attachments/assets/e2eba8da-3c53-4535-9649-a1c67281a617)
+
+![image](https://github.com/user-attachments/assets/194fd601-ea69-4417-b2fe-c057f9c59a15)
+
+![image](https://github.com/user-attachments/assets/7fe8bf0f-5f46-47c6-94f0-37c83b437d0e)
+
+![image](https://github.com/user-attachments/assets/3c29adc8-c5a7-41ff-9e16-6f3e46f1a1c0)
+
+![image](https://github.com/user-attachments/assets/6ca51616-0975-4e2a-9693-905f5550824f)
+
+![image](https://github.com/user-attachments/assets/95393267-1733-43ec-9c11-be41b2467bf7)
+
+We have to find the xi and yi values.
+
+![image](https://github.com/user-attachments/assets/7d121d60-c074-4ca2-a539-336a35479899)
+
+![image](https://github.com/user-attachments/assets/b110f252-9073-45a4-9daf-1ce26ad00d91)
+
+![image](https://github.com/user-attachments/assets/2d80e479-08ff-43f8-9708-d71a78b78f7e)
+
+![image](https://github.com/user-attachments/assets/fe03d155-1b63-4996-bef1-da784ec3b1e2)
+
+the 3*3 layout is shown below. And in1,2,3 and out is fixed. We have other 5 location to place the nand gate.
+
+![image](https://github.com/user-attachments/assets/7e2fb006-f6b4-4b9a-b267-3aa3577a4a2c)
+
+![image](https://github.com/user-attachments/assets/2eda4de5-f299-4fde-9764-ce25e11961fc)
+
+![image](https://github.com/user-attachments/assets/2eaf2214-5d59-46f3-8951-842cb18fe64f)
+
+![image](https://github.com/user-attachments/assets/76d30090-6853-4864-9657-fa62be7f80ea)
+
+![image](https://github.com/user-attachments/assets/05c02e65-017b-4fcb-a0fb-cfe5b4f6a1cd)
 
 
