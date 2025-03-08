@@ -1941,5 +1941,70 @@ This process is repeated. And the final placement is shown below.
 
 ![image](https://github.com/user-attachments/assets/538390d8-ff09-4ff8-b980-2bdb8a924cc1)
 
+Week 6 (lecture 32-Placement Algorithms)
+
+![image](https://github.com/user-attachments/assets/043eae91-ae43-4eb1-b7b6-98755daf1c6d)
+
+![image](https://github.com/user-attachments/assets/f1388a4a-2fa1-4469-8c91-7b3b7d9e7ad0)
+
+![image](https://github.com/user-attachments/assets/663b2652-8ec6-490f-b0dd-a2c2010ca667)
+
+We need to find the locations of logic gates in this 2 by 2 grid.
+
+![image](https://github.com/user-attachments/assets/2ba4d3ae-31ee-4cd0-b1bc-f2a71f759658)
+
+But if we don't consider the external connections, there will be a long wire as shown in the figure below.
+
+![image](https://github.com/user-attachments/assets/635d9935-396c-4b55-bf3e-223c2baf0e67)
+
+![image](https://github.com/user-attachments/assets/ca259388-c329-4477-af78-8daed28c73de)
+
+![image](https://github.com/user-attachments/assets/a0aec273-8148-4a30-939d-4ef65e27144e)
+
+c(i,j) is 1, if there is a line between i and j.
+
+![image](https://github.com/user-attachments/assets/93e888c2-d986-4a35-9021-fc8a3c33d721)
+
+In global placement, the cells will find the any one grid and get placed but it is not the actual placement.
+
+![image](https://github.com/user-attachments/assets/e921a240-0a46-4195-9020-c66fb943e334)
+
+![image](https://github.com/user-attachments/assets/cce3aa3f-32c5-4dfc-9632-fdd0c26a5bb6)
+
+![image](https://github.com/user-attachments/assets/4e58e5fc-5a1a-4be4-80a7-60e03fdc3080)
+
+The above functions should be differentiable so that we can find the global minimum.
+Convex means, local minimum becomes global minimum.
+
+![image](https://github.com/user-attachments/assets/e155b205-1319-4556-8fbe-1f194ac5ab3a)
+
+![image](https://github.com/user-attachments/assets/b3447d8c-0de4-453b-b897-3ce406889e1f)
+
+![image](https://github.com/user-attachments/assets/49819516-bd3c-41aa-88fe-ff93cde9c7c5)
+
+![image](https://github.com/user-attachments/assets/41e24ee5-6478-42d7-bd75-ca7e4a184c46)
+
+![image](https://github.com/user-attachments/assets/d8fa5cbc-e290-458e-a818-92f55b7800d9)
+
+![image](https://github.com/user-attachments/assets/a07fa86c-d61c-4b46-9af1-83e89b70948a)
+
+![image](https://github.com/user-attachments/assets/96b1d714-f87e-4c55-9ef5-35d67b002eff)
+
+![image](https://github.com/user-attachments/assets/d9c6f5c1-a9dd-4394-a030-19cfe7a0dd8a)
+
+![image](https://github.com/user-attachments/assets/faad06b5-b923-41a1-b4ad-21e9ae63e9f9)
+
+![image](https://github.com/user-attachments/assets/bad362d2-61b3-4e51-9b46-07e32b934c4c)
+
+![image](https://github.com/user-attachments/assets/0c27c892-a229-43d3-a43f-46b22a5fd092)
+
+![image](https://github.com/user-attachments/assets/28cdf731-d8c1-4341-a9d7-c084d40d84b1)
+
+![image](https://github.com/user-attachments/assets/6de1ee6e-0fde-4379-9d4e-21b5fd4874cc)
+
+![image](https://github.com/user-attachments/assets/31839d51-74e7-46b1-bdd1-eebcf47e3990)
+
+![image](https://github.com/user-attachments/assets/242cdb20-6222-4ebd-9567-752a9b9ca1f4)
+
 
 
