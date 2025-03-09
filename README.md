@@ -2112,5 +2112,71 @@ When the temperature is high, the probability of accepting the solution is highe
 
 ![image](https://github.com/user-attachments/assets/a10b22f3-1767-4ca1-a755-d1b0b4d3e5b4)
 
+Week 7 (lecture 34-Introduction to Clock Tree Synthesis)
 
+![image](https://github.com/user-attachments/assets/b45e5259-1a34-4d97-bfe4-99f994bea99c)
+
+![image](https://github.com/user-attachments/assets/4663e906-becc-420c-99b5-f0fb7ec1cbd4)
+
+![image](https://github.com/user-attachments/assets/78cbae4c-6a05-4576-8873-16d9f3d8f5f7)
+
+![image](https://github.com/user-attachments/assets/57cd9e5c-062a-483c-9578-a712e2bca0d2)
+
+![image](https://github.com/user-attachments/assets/a16d6c47-5b88-4620-ae79-fbdd2fd84078)
+
+![image](https://github.com/user-attachments/assets/6460d026-1c65-4c6a-82b3-c0412d31a86f)
+
+![image](https://github.com/user-attachments/assets/2117e88e-6a02-41db-af41-708b405e4cfd)
+
+![image](https://github.com/user-attachments/assets/be021044-6069-417a-88c9-cd78f90b86cd)
+
+![image](https://github.com/user-attachments/assets/78a1ea47-c3d9-4930-b0b0-6bd5ce89eaf8)
+
+![image](https://github.com/user-attachments/assets/a50dbd83-d034-4dc3-b9ba-92c92b271cd2)
+
+![image](https://github.com/user-attachments/assets/849e4796-9fca-40ef-ac32-ebb2e9fad220)
+
+![image](https://github.com/user-attachments/assets/5e015c50-8736-46a5-9b66-87b2b0c9cb1e)
+
+![image](https://github.com/user-attachments/assets/6c497e1a-8fbc-4f87-ba74-165c054e8253)
+
+![image](https://github.com/user-attachments/assets/0074b8df-739a-4419-8fab-bcb092629bdc)
+
+Distributed RC model takes more time to simulate but it is more accurate. There are equivalent T and Pi model to simulate in less time.
+
+![image](https://github.com/user-attachments/assets/8aa98329-7667-4164-9ccc-294f8603f1d7)
+
+Find the delay from the source node to I node.
+
+![image](https://github.com/user-attachments/assets/772f5669-6ddb-477b-8b63-c0622775a883)
+
+To apply Elmore delay model, the following conditions should be satisfied.
+
+![image](https://github.com/user-attachments/assets/80fcf285-f434-410c-89ec-55429598a851)
+
+![image](https://github.com/user-attachments/assets/4fa77821-0079-4cc4-9a6a-7d48ebc7d24f)
+
+![image](https://github.com/user-attachments/assets/a8d67c71-c7df-4e41-a94d-d017cf9bbefb)
+
+![image](https://github.com/user-attachments/assets/873b081b-5c11-40ae-8aa0-fe8b8c5c316b)
+
+In unbuffered tree, all the capacitances are added, because all the capacitors are parallel.
+
+![image](https://github.com/user-attachments/assets/a112ea99-99a4-4365-b972-822b1924e0da)
+
+![image](https://github.com/user-attachments/assets/5921f3b1-fe03-4c23-ace4-66f4ffa7bcb4)
+
+Buffer improves the transition time of the clock signal as shown in the diagram below.
+
+![image](https://github.com/user-attachments/assets/f374df06-03b4-43fa-81b1-95507bd86beb)
+
+The capacitance of the buffered node is minimum as shown in the diagram below.
+
+![image](https://github.com/user-attachments/assets/b6f584dd-7e0f-4359-bec1-e62a8f54c421)
+
+![image](https://github.com/user-attachments/assets/ff794216-2e47-4ab3-96fe-5390239d5814)
+
+![image](https://github.com/user-attachments/assets/d11f229d-b7f0-4574-b248-8aa37cfccab8)
+
+![image](https://github.com/user-attachments/assets/26ba1abe-e1cd-47db-b49e-f43f1f2074b5)
 
