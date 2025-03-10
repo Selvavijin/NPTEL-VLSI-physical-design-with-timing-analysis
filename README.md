@@ -2180,3 +2180,63 @@ The capacitance of the buffered node is minimum as shown in the diagram below.
 
 ![image](https://github.com/user-attachments/assets/26ba1abe-e1cd-47db-b49e-f43f1f2074b5)
 
+Week 7 (lecture 35-Clock Routing Algorithms – I)
+
+![image](https://github.com/user-attachments/assets/67001c2c-4e30-4ca3-9f9f-b1846e3ab6a0)
+
+![image](https://github.com/user-attachments/assets/cf056bd6-f98b-414b-86c4-99edbcd8e3ce)
+
+![image](https://github.com/user-attachments/assets/1fcf6917-a1c6-49a9-8f19-c0621b4e0eb7)
+
+![image](https://github.com/user-attachments/assets/880ffa0c-da17-4b6f-ad0f-57f8eb1bf2f3)
+
+![image](https://github.com/user-attachments/assets/f196b154-a285-4860-8aba-57a82908defc)
+
+![image](https://github.com/user-attachments/assets/219916d6-c75a-42c1-ad3e-7d36e5ce44bf)
+
+Here, for doing the analysis, setup time, clock to q delay are ignored.
+
+![image](https://github.com/user-attachments/assets/41765bbe-6f37-4cf6-a7f0-727a08be020e)
+
+Here the time period is reduced, so the speed will be higher. This is called useful skew.
+
+![image](https://github.com/user-attachments/assets/2cfe6b73-98ef-4c5d-adfd-9cce6e923534)
+
+![image](https://github.com/user-attachments/assets/c748e026-e55b-4085-8e4b-0e2d2cb39902)
+
+![image](https://github.com/user-attachments/assets/1daad693-6d6e-40d5-a9e0-aa1e7b7c0c26)
+
+![image](https://github.com/user-attachments/assets/3aec7e83-a379-44d8-bef4-2311b42bccb8)
+
+![image](https://github.com/user-attachments/assets/7d8a474a-a6e9-4d37-91ff-ae44910f639c)
+
+![image](https://github.com/user-attachments/assets/a112c38b-8ac3-4046-a9fc-ff2dcfa78391)
+
+![image](https://github.com/user-attachments/assets/a92ea4b5-81d2-45bd-9474-9b4969f52efc)
+
+![image](https://github.com/user-attachments/assets/5de242de-3705-4fd9-9012-668249edad97)
+
+![image](https://github.com/user-attachments/assets/296e6610-1415-4c6c-8c7f-18a944805a33)
+
+![image](https://github.com/user-attachments/assets/8f1e7bdf-d6c5-4611-b5d9-a9672a2173d0)
+
+![image](https://github.com/user-attachments/assets/64f43dc7-6ba1-4496-ba58-e09b087dd754)
+
+![image](https://github.com/user-attachments/assets/398b1968-862e-4f00-94f5-7e50f53879d2)
+
+Tapping points are used to connect.
+
+![image](https://github.com/user-attachments/assets/b9817cd2-4b57-4675-9b8d-6b49363d366b)
+
+![image](https://github.com/user-attachments/assets/a5acb824-3b16-4097-925b-90f4cd5bc14b)
+
+![image](https://github.com/user-attachments/assets/7df0d74c-d12f-4876-8612-18eb4772f4c8)
+
+We can extend this method to create more H trees. Here, 2 level H tree is shown.
+
+![image](https://github.com/user-attachments/assets/ccabb829-0fb0-4175-9bc5-560590222466)
+
+When the level k=2, the number of sink nodes possible are 4^2=16.
+
+![image](https://github.com/user-attachments/assets/a405f2fd-fcfe-44f4-a609-8786cc8c9f69)
+
