@@ -2248,3 +2248,27 @@ Week 7 (lecture 36-Clock Routing Algorithms – II)
 
 ![image](https://github.com/user-attachments/assets/4e81f0af-2cc1-4749-a8a9-b5ba327b5536)
 
+![image](https://github.com/user-attachments/assets/b2735992-dc13-4f1e-ab8a-16c2d91b1031)
+
+![image](https://github.com/user-attachments/assets/7a06bbd2-df1f-4905-ac4d-df4747898b15)
+
+![image](https://github.com/user-attachments/assets/7754fdbb-eddb-45af-a045-027fca9ee1f1)
+
+![image](https://github.com/user-attachments/assets/8b34e804-e1e7-46c2-8ce2-52b28b68ccfc)
+
+![image](https://github.com/user-attachments/assets/4f60e564-ff59-4c40-8b09-d1c3817e4648)
+
+![image](https://github.com/user-attachments/assets/04f6ca69-ec06-4d27-b23e-168b1630160f)
+
+![image](https://github.com/user-attachments/assets/30db1cd3-6d73-4035-9a38-b3eeb4b1fa7a)
+
+![image](https://github.com/user-attachments/assets/01838a23-da7b-4a6c-9c28-0cadfa2ae881)
+
+![image](https://github.com/user-attachments/assets/be06e77c-862a-4543-a5eb-f0870eac0049)
+
+![image](https://github.com/user-attachments/assets/17ca2707-463e-4e32-993c-6728cc0f78c1)
+
+![image](https://github.com/user-attachments/assets/3f1f6ad2-3ec9-434c-973d-56069bf6ba29)
+
+![image](https://github.com/user-attachments/assets/e492c0c1-1992-4888-bfc9-81e241f67048)
+
