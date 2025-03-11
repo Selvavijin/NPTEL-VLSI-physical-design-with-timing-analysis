@@ -2240,3 +2240,11 @@ When the level k=2, the number of sink nodes possible are 4^2=16.
 
 ![image](https://github.com/user-attachments/assets/a405f2fd-fcfe-44f4-a609-8786cc8c9f69)
 
+Week 7 (lecture 36-Clock Routing Algorithms – II)
+
+![image](https://github.com/user-attachments/assets/66c4fa76-c1dd-4f86-a69c-379159be45f5)
+
+![image](https://github.com/user-attachments/assets/6e26183c-cb36-4edf-808b-2b7b4a7c5c2c)
+
+![image](https://github.com/user-attachments/assets/4e81f0af-2cc1-4749-a8a9-b5ba327b5536)
+
