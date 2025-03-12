@@ -2272,3 +2272,51 @@ Week 7 (lecture 36-Clock Routing Algorithms – II)
 
 ![image](https://github.com/user-attachments/assets/e492c0c1-1992-4888-bfc9-81e241f67048)
 
+Week 7 (lecture 37-Clock Routing Algorithms – III)
+
+![image](https://github.com/user-attachments/assets/245587e3-bd33-42b5-8499-238c9fcf03de)
+
+![image](https://github.com/user-attachments/assets/6d5dbebb-edf0-45ba-8077-c28f9dce5839)
+
+![image](https://github.com/user-attachments/assets/cfc8df1e-c5ff-4d0d-bf79-cb95fe5b8dc1)
+
+We should find the tapping point, so that both the branch delay is same. ie) the delay from A to T and B to T should be same, so that the skew at point T is zero.
+
+![image](https://github.com/user-attachments/assets/9376e5eb-1ddd-4f23-b760-23bd6c53e0f4)
+
+![image](https://github.com/user-attachments/assets/b3082203-9e70-482f-a573-99f7645034bc)
+
+![image](https://github.com/user-attachments/assets/441744fe-bca0-497e-8734-dd6246c6ce11)
+
+![image](https://github.com/user-attachments/assets/282ae623-f260-4dd1-a0ec-a8fde55d0504)
+
+![image](https://github.com/user-attachments/assets/d2902d4b-f74e-4773-87fa-e06a4e3014f7)
+
+![image](https://github.com/user-attachments/assets/c7af5649-827f-4c33-bb21-10b4dd79cfb9)
+
+![image](https://github.com/user-attachments/assets/e8397b8b-c888-4745-b9e6-a285944c96f0)
+
+If the sinks are aligned in a straight line, then the Manhattan arc will be a point.
+
+![image](https://github.com/user-attachments/assets/f645457e-c07e-42eb-950f-1a6e04c7e19b)
+
+![image](https://github.com/user-attachments/assets/b6819017-d317-4bb4-ad9f-145eaa6226f5)
+
+![image](https://github.com/user-attachments/assets/2a6c2405-3df3-4057-88e1-82598b0f18ae)
+
+![image](https://github.com/user-attachments/assets/9c8221f4-f096-4ced-987d-c1774e27aa19)
+
+![image](https://github.com/user-attachments/assets/36e7eed9-5ad8-4bc7-93f1-ff7e08fd211b)
+
+![image](https://github.com/user-attachments/assets/09d4ca65-1a96-446d-ab69-a111eccecfa9)
+
+![image](https://github.com/user-attachments/assets/7bb7c9ab-405a-42a3-a65a-4ed0d7a7daf0)
+
+s0 is the point where the clock is entering to the chip.
+
+![image](https://github.com/user-attachments/assets/328f2040-af78-4e59-9cf3-95b93f89210e)
+
+![image](https://github.com/user-attachments/assets/3d58bdde-5d30-4c18-b85d-a55f41aba790)
+
+![image](https://github.com/user-attachments/assets/d8387202-d0f9-4a50-b788-91f5d3db1f44)
+
