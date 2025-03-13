@@ -2320,3 +2320,69 @@ s0 is the point where the clock is entering to the chip.
 
 ![image](https://github.com/user-attachments/assets/d8387202-d0f9-4a50-b788-91f5d3db1f44)
 
+Week 8 (lecture 38-Introduction and Optimization Goals – Global Routing)
+
+![image](https://github.com/user-attachments/assets/71eaefd7-640b-4614-bba9-b483a9dbd5ce)
+
+![image](https://github.com/user-attachments/assets/56b44d45-8273-46e9-a06a-8870a7f0f22f)
+
+This routing region is useful for creating routing tracks.
+
+![image](https://github.com/user-attachments/assets/a68bcc9e-4923-44d9-a723-9c8448c3e44e)
+
+![image](https://github.com/user-attachments/assets/7bc47583-a521-4d69-a0c4-1abf7e4dbc84)
+
+There are two metal connections, vertical and horizontal.
+
+![image](https://github.com/user-attachments/assets/7849a5a7-c8c5-4e1f-bdbe-cf234379dcf2)
+
+![image](https://github.com/user-attachments/assets/bd4e3788-7a13-41eb-b289-63400b6b6c5b)
+
+In time-driven routing, we see the critical nets and if the timing is not met, we do the operations mentioned in the below slide to improve the speed.
+
+![image](https://github.com/user-attachments/assets/87859a07-ef0e-480f-91ad-6cb5b0b52451)
+
+In global routing, the metals are not assigned and they are just the connections.
+
+![image](https://github.com/user-attachments/assets/6412c47f-698b-4dd7-b0c3-f065a6121d4e)
+
+![image](https://github.com/user-attachments/assets/4d78b7db-86d9-4a44-99dc-2529f2a3cab2)
+
+![image](https://github.com/user-attachments/assets/84397d12-c0a9-408e-8460-8586520ce109)
+
+In Net ordering, we will choose one of the nets that will be routed and in case of pin ordering, we will check what are the pins connecting to that net.
+
+![image](https://github.com/user-attachments/assets/e212e171-6f33-4f80-8ac6-5de905c796e0)
+
+![image](https://github.com/user-attachments/assets/0f74176e-841c-4b34-9c93-6031d36a75a5)
+
+![image](https://github.com/user-attachments/assets/831fd5c0-7e70-42dc-b389-430feb94e4a5)
+
+The routing tracks are mentioned as 1,2,3. The distance between two metal tracks are called pitch.
+
+![image](https://github.com/user-attachments/assets/1875ca97-14a9-429e-abee-4c4177ea52d9)
+
+This pitch will determine, how many tracks are possible in this routing region. In multilayer routing, we find the capicity for each layer and sum it up.
+
+![image](https://github.com/user-attachments/assets/81cd952f-c40f-4341-9555-5048e375ef96)
+
+![image](https://github.com/user-attachments/assets/12a31cba-c1ec-44b8-b6be-27487c2cb541)
+
+![image](https://github.com/user-attachments/assets/e4164f78-f77e-4966-99bc-53cc3a20dcaa)
+
+![image](https://github.com/user-attachments/assets/fefaa444-e609-41a3-a849-531122b25b34)
+
+![image](https://github.com/user-attachments/assets/251bc440-11e7-4ddf-9797-ef9b3ccb4e1f)
+
+![image](https://github.com/user-attachments/assets/5db0f32b-1d37-4ffb-9fef-547992870b37)
+
+Feedthrough cells are extra cells in standard cell library.
+
+![image](https://github.com/user-attachments/assets/a3489a8a-57ea-4cdb-9302-efef372fcdef)
+
+![image](https://github.com/user-attachments/assets/790273eb-b663-47c4-8364-11aeb68f0bfa)
+
+In the method shown below, the C pin remains unrouted. One possible solution is to modify the placement. Because, the routing region is fixed, so we can't change the routing region.
+
+![image](https://github.com/user-attachments/assets/d7769794-b673-49b9-8e96-4bc30268bfdc)
+
