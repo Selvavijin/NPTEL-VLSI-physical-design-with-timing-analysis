@@ -2432,6 +2432,59 @@ Week 8 (lecture 39-Single net routing (Rectilinear routing))
 
 ![image](https://github.com/user-attachments/assets/7ba67cf9-cc3d-4df1-957f-8cbb50fd4ab3)
 
+Week 8 (lecture 40-Global Routing in the connectivity graph)
 
+![image](https://github.com/user-attachments/assets/26fdfc20-6841-45cc-93c8-8aac9dbed4dd)
 
+![image](https://github.com/user-attachments/assets/ce2573aa-8f98-4ad2-a4c2-7afd8e237227)
+
+In the left side diagram, the blue blocks are the blocks of the placement and the white spaces are the channels, which represent a node.
+
+![image](https://github.com/user-attachments/assets/f86472a1-451a-4b11-ac17-4e713c48a4ee)
+
+When a vertical channel crosses the horizontal channel, a switchbox is formed.
+
+![image](https://github.com/user-attachments/assets/a412f970-c20c-4818-8b47-c3164412c707)
+
+Both the channel and switchbox connectivity graph combined to form a connectivity graph.
+
+![image](https://github.com/user-attachments/assets/5dea853b-753e-415f-ad3c-5ab14134ea52)
+
+![image](https://github.com/user-attachments/assets/60747693-1133-487f-8fb1-e22114eca46c)
+
+![image](https://github.com/user-attachments/assets/80180ed6-d4f5-4aa3-a681-68e49a3c0e11)
+
+![image](https://github.com/user-attachments/assets/f58a497d-51f6-4c57-b26c-36ae5db8b161)
+
+![image](https://github.com/user-attachments/assets/2f84cfd2-0c5a-4f04-a7ec-f1df8e5d4e6c)
+
+![image](https://github.com/user-attachments/assets/8b9f4d7f-8bc8-4da1-9955-c4ed3d92fd9a)
+
+Horizontal or vertical capacity means that how many metals or wires pass through that regions.
+
+![image](https://github.com/user-attachments/assets/38db2515-d198-4b50-af16-32562b47d55a)
+
+![image](https://github.com/user-attachments/assets/7b0bdc82-5059-42d3-8b01-dfc2a0d577ae)
+
+![image](https://github.com/user-attachments/assets/474c3ca5-b5bf-40d5-8f47-d5a4e743c3c2)
+
+![image](https://github.com/user-attachments/assets/6a44f16d-3b2b-4a12-9626-585e0278236c)
+
+If we use the horizontal metal, the horizontal capacity will be reduced by 1 and vice versa. I we use both the horizontal and vertical metal, both the capacity will be reduced by 1.
+
+![image](https://github.com/user-attachments/assets/05b097fd-40af-4024-9819-2d535ab47878)
+
+This is the finally routed design.
+
+![image](https://github.com/user-attachments/assets/d94aca21-c682-43f3-bfe7-9844196727c6)
+
+![image](https://github.com/user-attachments/assets/73bbd3fe-4b2b-4a6e-93d4-78ced30f7572)
+
+After we do route for A, there is no space to route for B in 4 and 6. So, we can't use the shortest path. So, we use longest path.
+
+![image](https://github.com/user-attachments/assets/49323384-bc6c-4bab-b15c-379b8b4ae674)
+
+![image](https://github.com/user-attachments/assets/dcb49e7e-35d5-4071-980a-494d5d77b103)
+
+![image](https://github.com/user-attachments/assets/fe77f220-b412-41e7-ab54-0c217f0af198)
 
