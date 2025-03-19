@@ -2488,3 +2488,59 @@ After we do route for A, there is no space to route for B in 4 and 6. So, we can
 
 ![image](https://github.com/user-attachments/assets/fe77f220-b412-41e7-ab54-0c217f0af198)
 
+Week 8 (lecture 41-Finding Shortest Paths with Dijkstra’s Algorithm)
+
+![image](https://github.com/user-attachments/assets/d19b1b09-f2b1-4b4c-8395-031006a49d52)
+
+![image](https://github.com/user-attachments/assets/ac220d7a-ce58-4e06-bb46-57b7b47ce389)
+
+![image](https://github.com/user-attachments/assets/854279ab-6400-4e37-95d4-3458e03eb97d)
+
+![image](https://github.com/user-attachments/assets/c7630ae3-fb07-40b2-ab5b-e16a2e7090aa)
+
+![image](https://github.com/user-attachments/assets/62346880-ed17-4138-919d-eb507f1be1a7)
+
+![image](https://github.com/user-attachments/assets/6d03be8b-a047-4d20-9600-aeb97348069d)
+
+In the line 6, the first s is starting node and the second s is target node.
+
+![image](https://github.com/user-attachments/assets/db7a9e74-e451-4239-99ca-480390eb945c)
+
+![image](https://github.com/user-attachments/assets/e3f4fa4e-6f10-4f50-b0b4-ee5d166f870a)
+
+![image](https://github.com/user-attachments/assets/f46eb13b-24ce-4a5c-baaa-947f1daa9cfc)
+
+![image](https://github.com/user-attachments/assets/dc3a5979-a7ad-4973-8f57-8075105db471)
+
+![image](https://github.com/user-attachments/assets/3523a10f-07a1-4247-a1ba-e3cd256f221c)
+
+![image](https://github.com/user-attachments/assets/7e502f8b-3bf4-4afd-83cf-40f2374a4126)
+
+![image](https://github.com/user-attachments/assets/cc5c4a38-46c9-4aa1-84e2-9037e4e4be98)
+
+In the week 1 of the lecture also we saw this algorithm, but it uses only single weight per edge. Here we use two weights, one is horizontal capacity and the other is vertical capacity. Also previously our interconnects are not perpendicular to the x or y axis. But here the interconnect is either perpendicular to the x or y axis.
+
+![image](https://github.com/user-attachments/assets/f4df7886-c62e-4cf5-95e5-257081e31107)
+
+initially the source node goes to group 3, because, the distance form source node to source node is 0. Then we see the neighbours of node 1.
+
+![image](https://github.com/user-attachments/assets/c822e061-4fca-4119-9e5e-724ff8bcb5fe)
+
+![image](https://github.com/user-attachments/assets/e74def37-2bcc-429b-9bd7-16cfc579bdec)
+
+Node 5 is occured 2 times so, we see which has higher cost and will remove it.
+
+![image](https://github.com/user-attachments/assets/baa91032-9df0-49d0-8b37-580fa43b4eea)
+
+Node 5 and Node 7 has same cost. So, we can choose any one of them.
+
+![image](https://github.com/user-attachments/assets/b4ed6804-aa0f-4a60-80d8-07d26ee2a85c)
+
+![image](https://github.com/user-attachments/assets/2db89686-bd12-4219-9683-cdcd2dda4f9d)
+
+![image](https://github.com/user-attachments/assets/7a435876-9bc7-4faf-aa89-f81bef23eeb2)
+
+![image](https://github.com/user-attachments/assets/f4a3e16e-7581-4045-bf21-a9b5a5568b35)
+
+
+
