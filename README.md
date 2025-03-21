@@ -2542,5 +2542,9 @@ Node 5 and Node 7 has same cost. So, we can choose any one of them.
 
 ![image](https://github.com/user-attachments/assets/f4a3e16e-7581-4045-bf21-a9b5a5568b35)
 
+Week 8 (lecture 42-Full-Netlist Routing)
+
+![image](https://github.com/user-attachments/assets/9a53471c-790e-46eb-bd7c-ec262d8f3927)
+
 
 
