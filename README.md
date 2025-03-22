@@ -2546,5 +2546,30 @@ Week 8 (lecture 42-Full-Netlist Routing)
 
 ![image](https://github.com/user-attachments/assets/9a53471c-790e-46eb-bd7c-ec262d8f3927)
 
+![image](https://github.com/user-attachments/assets/40e53c75-0511-491b-a350-b9f77bdb110e)
+
+![image](https://github.com/user-attachments/assets/96f88794-9517-47ae-912f-bec417ed4a25)
+
+![image](https://github.com/user-attachments/assets/680d2c46-e9fc-4048-8834-a5ed6451d2c9)
+
+![image](https://github.com/user-attachments/assets/7b89ba2f-9e5b-4115-8cf2-9ccff6eb1adc)
+
+![image](https://github.com/user-attachments/assets/11dee126-150e-4150-9a86-d3c1570edecb)
+
+![image](https://github.com/user-attachments/assets/81492ac4-04ea-4c70-b3a5-d73735dffae3)
+
+![image](https://github.com/user-attachments/assets/bcc55eb2-4cdf-4656-86ea-7770b697f472)
+
+![image](https://github.com/user-attachments/assets/f54091ec-47b6-4e03-a6bb-01e5a9723b2b)
+
+![image](https://github.com/user-attachments/assets/0341f083-39c7-49e0-9623-3ba937b038a5)
+
+![image](https://github.com/user-attachments/assets/6f87dbdd-2927-45bb-87d5-7e5615629f4c)
+
+![image](https://github.com/user-attachments/assets/70ac7915-e6be-46eb-b542-f18e7ed06963)
+
+![image](https://github.com/user-attachments/assets/d3b60579-c268-4bc9-b6a3-f6f857b5e2ec)
+
+![image](https://github.com/user-attachments/assets/39a214c9-aa26-4431-be90-fe2185ea5505)
 
 
