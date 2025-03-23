@@ -2572,4 +2572,15 @@ Week 8 (lecture 42-Full-Netlist Routing)
 
 ![image](https://github.com/user-attachments/assets/39a214c9-aa26-4431-be90-fe2185ea5505)
 
+![image](https://github.com/user-attachments/assets/e68e2d14-410e-44f4-9f9f-59dd43d7573d)
+
+![image](https://github.com/user-attachments/assets/d5942989-5693-43fe-b5db-7c2beedbd6e0)
+
+For L shape structure, we multiply the net with 1 and for Z shape structure, we multiply the net with 0.99. This means that the highest priority is given to the L shape net, and if no routing is possible with L shape net, we can go for Z shape net.
+
+![image](https://github.com/user-attachments/assets/7800542c-471b-4545-a6a3-00db1a0b6980)
+
+![image](https://github.com/user-attachments/assets/bdd776cc-f5d9-4358-8991-ec528ba744ee)
+
+![image](https://github.com/user-attachments/assets/d5c4f09c-ca99-49c7-813e-b5814510dbde)
 
