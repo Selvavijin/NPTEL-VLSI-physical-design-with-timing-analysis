@@ -2584,3 +2584,9 @@ For L shape structure, we multiply the net with 1 and for Z shape structure, we 
 
 ![image](https://github.com/user-attachments/assets/d5c4f09c-ca99-49c7-813e-b5814510dbde)
 
+Week 9 (lecture 43-Introduction: Detailed Routing)
+
+![image](https://github.com/user-attachments/assets/344d3b29-f859-480d-9595-2e0547338aef)
+
+![image](https://github.com/user-attachments/assets/446c80c1-4db8-423f-9b78-75ef2d1a191e)
+
