@@ -2590,3 +2590,37 @@ Week 9 (lecture 43-Introduction: Detailed Routing)
 
 ![image](https://github.com/user-attachments/assets/446c80c1-4db8-423f-9b78-75ef2d1a191e)
 
+![image](https://github.com/user-attachments/assets/4e11c59d-dd85-41d3-903a-6d4ccd84d3fd)
+
+![image](https://github.com/user-attachments/assets/c6d052f1-9f55-4721-9b35-a88440b8bfa4)
+
+![image](https://github.com/user-attachments/assets/d6e2fa17-4ddb-4e3e-8a57-f91dc107aa38)
+
+![image](https://github.com/user-attachments/assets/391bdc0a-f415-4cb7-8fd2-6c35c550033c)
+
+![image](https://github.com/user-attachments/assets/25f901c6-81a6-4dbd-88f5-d632709816a2)
+
+![image](https://github.com/user-attachments/assets/85cc1ec7-e489-44c5-ba62-63911f0e21c8)
+
+![image](https://github.com/user-attachments/assets/d4bfa347-d3a8-4afe-8647-4c7dafc1c1c8)
+
+![image](https://github.com/user-attachments/assets/80969b0b-8bd3-402d-897f-693444709a92)
+
+![image](https://github.com/user-attachments/assets/d94f0e42-738d-41a7-8b5d-9ba258b352ef)
+
+![image](https://github.com/user-attachments/assets/7bd491e7-2ed2-4e10-9680-e51b68bbd41e)
+
+![image](https://github.com/user-attachments/assets/e00c9bf2-bb82-43ae-b7ba-771dd530f3b3)
+
+In column b, B and C are present, and A is going from left to right. So, A is also included. S(a) is the subset of S(b), so we can ignore S(a).
+
+![image](https://github.com/user-attachments/assets/b8a9c6d5-2042-44b6-b133-7170eccbb6b6)
+
+![image](https://github.com/user-attachments/assets/0707d086-bbc7-4f61-9bb0-cfa7b7d09624)
+
+![image](https://github.com/user-attachments/assets/b4b68de8-742b-4a6c-b1ec-2789db973e84)
+
+![image](https://github.com/user-attachments/assets/92a7c36a-6c9c-42c4-a156-39217eedeb77)
+
+![image](https://github.com/user-attachments/assets/a6399b25-d05e-41f1-9dc8-a2db874eea5f)
+
