@@ -2624,3 +2624,30 @@ In column b, B and C are present, and A is going from left to right. So, A is al
 
 ![image](https://github.com/user-attachments/assets/a6399b25-d05e-41f1-9dc8-a2db874eea5f)
 
+Week 9 (lecture 44-Channel Routing Algorithms – I)
+
+![image](https://github.com/user-attachments/assets/4e554831-a214-48b2-81f1-2c54f7574f3f)
+
+![image](https://github.com/user-attachments/assets/ac4e38cc-cdd8-407d-a122-f5adbdd223c4)
+
+![image](https://github.com/user-attachments/assets/a3e74625-1a79-46ae-a6be-247e73fc9575)
+
+When the cycle formed as shown in the figure below, the conecpt of net splitting is used where we use an extra track.
+
+![image](https://github.com/user-attachments/assets/fc0fed7e-616a-4a11-9d3b-20f59d86f28e)
+
+![image](https://github.com/user-attachments/assets/65e66952-9c8a-4273-b336-8a0adee6e245)
+
+![image](https://github.com/user-attachments/assets/16437a68-ef3f-4db5-9206-545616414dc5)
+
+![image](https://github.com/user-attachments/assets/6d8671dd-4687-43dd-8126-c00eb5388855)
+
+![image](https://github.com/user-attachments/assets/16df90d3-01eb-4a90-b992-d060f6b20034)
+
+![image](https://github.com/user-attachments/assets/35e3fe11-13d1-4304-8363-f53fa4501abc)
+
+![image](https://github.com/user-attachments/assets/1cf3d487-b18e-4e07-8ae3-fd6a8f333b21)
+
+![image](https://github.com/user-attachments/assets/9c1269c8-7641-4fbd-b635-352a54e653c9)
+
+
