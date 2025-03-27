@@ -2650,4 +2650,14 @@ When the cycle formed as shown in the figure below, the conecpt of net splitting
 
 ![image](https://github.com/user-attachments/assets/9c1269c8-7641-4fbd-b635-352a54e653c9)
 
+![image](https://github.com/user-attachments/assets/ec597857-8645-4bbc-a15b-bf3720af2b2e)
+
+![image](https://github.com/user-attachments/assets/4e11cb4f-1df7-4206-8ef8-5e5d9a83b49b)
+
+![image](https://github.com/user-attachments/assets/dd21e92a-f4a3-458f-b0b2-6bfbf3096efa)
+
+![image](https://github.com/user-attachments/assets/b8239336-99b6-4b6e-b163-c9ff326f1f18)
+
+![image](https://github.com/user-attachments/assets/3428582b-a7ff-4d8d-bba5-a4276b3185ca)
+
 
